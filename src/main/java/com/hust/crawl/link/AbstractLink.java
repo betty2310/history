@@ -21,7 +21,9 @@ public abstract class AbstractLink implements Link {
     }
     protected abstract void setProperties();
     public void writeToFile(String fileName) {
+        setProperties();
         String filePath = fileName;
+        System.out.println(getClass().getResource("."));
         System.out.println("Begin crawling " + url);
         crawl(url);
         System.out.println("Finish crawling " + url);
