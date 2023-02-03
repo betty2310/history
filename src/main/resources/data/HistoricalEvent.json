@@ -1,0 +1,660 @@
+[
+  {
+    "noi dung": "25.000 TCN\u20137.000 TCN Văn hóa Soi Nhụ",
+    "thoi_ki": "Thời đại đồ đá cũ"
+  },
+  {
+    "noi dung": "23.000 TCN Văn hóa Ngườm",
+    "thoi_ki": "Thời đại đồ đá cũ"
+  },
+  {
+    "noi dung": "23.000 TCN\u20131.000 TCN Văn hóa Tràng An",
+    "thoi_ki": "Thời đại đồ đá cũ"
+  },
+  {
+    "noi dung": "20.000 TCN\u201312.000 TCN Văn hóa Sơn Vi",
+    "thoi_ki": "Thời đại đồ đá cũ"
+  },
+  {},
+  {
+    "noi dung": "12.000 TCN\u201310.000 TCN Văn hóa Hòa Bình",
+    "thoi_ki": "Thời đại đồ đá mới"
+  },
+  {
+    "noi dung": "10.000 TCN - 8.000 TCN Văn hóa Bắc Sơn",
+    "thoi_ki": "Thời đại đồ đá mới"
+  },
+  {
+    "noi dung": "8.000 TCN - 6.000 TCN Văn hóa Quỳnh Văn",
+    "thoi_ki": "Thời đại đồ đá mới"
+  },
+  {
+    "noi dung": "7.000 TCN - 5.000 TCN Văn hóa Cái Bèo",
+    "thoi_ki": "Thời đại đồ đá mới"
+  },
+  {
+    "noi dung": "6.000 TCN - 5.000 TCN Văn hóa Đa Bút",
+    "thoi_ki": "Thời đại đồ đá mới"
+  },
+  {},
+  {
+    "noi dung": "3.000 TCN\u20131.500 TCN Văn hóa Hạ Long",
+    "thoi_ki": "Thời đại đồ đồng đá"
+  },
+  {
+    "noi dung": "2.000 TCN\u20131.500 TCN Văn hóa Phùng Nguyên",
+    "thoi_ki": "Thời đại đồ đồng đá"
+  },
+  {
+    "noi dung": "2.000 TCN\u20131.000 TCN Văn hóa Tiền Sa Huỳnh",
+    "thoi_ki": "Thời đại đồ đồng đá"
+  },
+  {},
+  {
+    "noi dung": "1.500 TCN\u20131.000 TCN Văn hóa Đồng Đậu",
+    "thoi_ki": "Thời đại đồ đồng"
+  },
+  {
+    "noi dung": "1.000 TCN - 600 TCN Văn hóa Gò Mun",
+    "thoi_ki": "Thời đại đồ đồng"
+  },
+  {},
+  {
+    "noi dung": "1.000 TCN - 200 Văn hóa Sa Huỳnh",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {
+    "noi dung": "1.000 TCN - 0 Văn hóa Đồng Nai",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {
+    "noi dung": "700 TCN\u2013100 Văn hóa Đông Sơn",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {
+    "noi dung": "1 - 630 Văn hóa Óc Eo",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {},
+  {
+    "noi dung": "Thế kỉ VII TCN vua Hùng thành lập quốc gia Văn Lang",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {
+    "noi dung": "207 TCN An Dương Vương thôn tính Văn Lang, thành lập quốc gia Âu Lạc",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {
+    "noi dung": "218 TCN - 207 TCN Chiến tranh Tần-Việt",
+    "thoi_ki": "Thời đại đồ sắt"
+  },
+  {},
+  {},
+  {
+    "noi dung": "179 TCN Triệu Đà xâm lược nước Âu Lạc, sáp nhập vào quốc gia Nam Việt",
+    "thoi_ki": "Thuộc Nam Việt"
+  },
+  {
+    "noi dung": "111 TCN Chiến tranh Hán-Nam Việt",
+    "thoi_ki": "Thuộc Nam Việt"
+  },
+  {},
+  {
+    "noi dung": "111 TCN nhà Hán thôn tính Nam Việt",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "40 khởi nghĩa Hai Bà Trưng, Trưng Trắc thành lập quốc gia Lĩnh Nam, kinh đô đặt tại Mê Linh",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "42 - 43 Chiến tranh Lĩnh Nam - Đông Hán",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "43 Đông Hán thôn tính Lĩnh Nam",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "156\u2013160 Khởi nghĩa Chu Đạt",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "178\u2013181 Khởi nghĩa Lương Long",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {
+    "noi dung": "192 Khu Liên khởi nghĩa, tách quận Nhật Nam thành lập quốc gia Lâm Ấp",
+    "thoi_ki": "Thuộc Hán"
+  },
+  {},
+  {
+    "noi dung": "229",
+    "thoi_ki": "Thuộc Đông Ngô"
+  },
+  {},
+  {
+    "noi dung": "246 - 248 Khởi nghĩa Bà Triệu",
+    "thoi_ki": "Thuộc Đông Ngô"
+  },
+  {},
+  {
+    "noi dung": "280 Chiến tranh Tấn \u2013 Ngô",
+    "thoi_ki": "Thuộc Tấn"
+  },
+  {},
+  {
+    "noi dung": "420 Lưu Dụ ép Tấn Cung Đế nhường ngôi, lập ra nhà Lưu Tống",
+    "thoi_ki": "Thuộc Lưu Tống"
+  },
+  {
+    "noi dung": "436 Thứ sử Giao Châu Đàn Hòa Chi đánh Lâm Ấp, cướp châu báu rút về",
+    "thoi_ki": "Thuộc Lưu Tống"
+  },
+  {
+    "noi dung": "468 - 485 khởi nghĩa Lý Trường Nhân",
+    "thoi_ki": "Thuộc Lưu Tống"
+  },
+  {},
+  {
+    "noi dung": "479 Tiêu Đạo Thành phế Lưu Chuẩn tự làm vua, thành lập nhà Nam Tề",
+    "thoi_ki": "Thuộc Nam Tề"
+  },
+  {},
+  {
+    "noi dung": "502 Tiêu Diễn phế truất Tiêu Bảo Dung, thành lập nhà Lương",
+    "thoi_ki": "Thuộc Lương"
+  },
+  {
+    "noi dung": "541 khởi nghĩa Lý Bí",
+    "thoi_ki": "Thuộc Lương"
+  },
+  {
+    "noi dung": "544 Lý Bí thành lập quốc gia Vạn Xuân",
+    "thoi_ki": "Thuộc Lương"
+  },
+  {},
+  {
+    "noi dung": "602 Chiến tranh Tùy\u2013Vạn Xuân",
+    "thoi_ki": "Thuộc Tùy"
+  },
+  {},
+  {
+    "noi dung": "618",
+    "thoi_ki": "Thuộc Đường"
+  },
+  {},
+  {
+    "noi dung": "687 khởi nghĩa Lý Tự Tiên",
+    "thoi_ki": "Thuộc Đường"
+  },
+  {
+    "noi dung": "713 - 723 khởi nghĩa Mai Hắc Đế",
+    "thoi_ki": "Thuộc Đường"
+  },
+  {
+    "noi dung": "776-791 khởi nghĩa Phùng Hưng",
+    "thoi_ki": "Thuộc Đường"
+  },
+  {},
+  {},
+  {
+    "noi dung": "905 Khúc Thừa Dụ xây dựng chính quyền tự chủ",
+    "thoi_ki": "Tự chủ"
+  },
+  {
+    "noi dung": "938 Trận Bạch Đằng, Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
+    "thoi_ki": "Tự chủ"
+  },
+  {},
+  {
+    "noi dung": "939 Ngô Quyền xưng vương, kinh đô Cổ Loa",
+    "thoi_ki": "Nhà Ngô"
+  },
+  {
+    "noi dung": "944 - 968 Loạn 12 sứ quân",
+    "thoi_ki": "Nhà Ngô"
+  },
+  {},
+  {
+    "noi dung": "968 Đinh Bộ Lĩnh xưng đế, thành lập quốc gia Đại Cồ Việt, kinh đô Hoa Lư",
+    "thoi_ki": "Nhà Đinh"
+  },
+  {
+    "noi dung": "970 Đinh Bộ Lĩnh cho đúc Thái Bình hưng bảo, đồng tiền đầu tiên của Việt Nam",
+    "thoi_ki": "Nhà Đinh"
+  },
+  {
+    "noi dung": "979 Đinh Bộ Lĩnh cùng con trai bị sát hại",
+    "thoi_ki": "Nhà Đinh"
+  },
+  {},
+  {
+    "noi dung": "980 Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê",
+    "thoi_ki": "Nhà Tiền Lê"
+  },
+  {
+    "noi dung": "981",
+    "thoi_ki": "Nhà Tiền Lê"
+  },
+  {},
+  {},
+  {
+    "noi dung": "1009",
+    "thoi_ki": "Nhà Lý"
+  },
+  {},
+  {
+    "noi dung": "1010 Lý Công Uẩn dời đô về Thăng Long",
+    "thoi_ki": "Nhà Lý"
+  },
+  {
+    "noi dung": "1054 Lý Thánh Tông lên ngôi, đổi tên nước từ Đại Cồ Việt thành Đại Việt",
+    "thoi_ki": "Nhà Lý"
+  },
+  {
+    "noi dung": "1069 Chiến tranh Việt-Chiêm, Đại Việt chiếm được 3 châu của Chiêm Thành",
+    "thoi_ki": "Nhà Lý"
+  },
+  {
+    "noi dung": "1075\u20131077 Chiến tranh Tống-Việt",
+    "thoi_ki": "Nhà Lý"
+  },
+  {
+    "noi dung": "1077",
+    "thoi_ki": "Nhà Lý"
+  },
+  {},
+  {},
+  {
+    "noi dung": "1226",
+    "thoi_ki": "Nhà Trần"
+  },
+  {},
+  {
+    "noi dung": "1258 Chiến tranh Nguyên Mông\u2013Đại Việt lần 1",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1282 Hội nghị Bình Than, triệu họp vương hầu, trăm quan",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1284 Hội nghị Diên Hồng, triệu họp bô lão cả nước",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1285 Chiến tranh Nguyên Mông-Đại Việt lần 2",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1287\u20131288 Chiến tranh Nguyên Mông\u2013Đại Việt lần 3",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1396 phát hành Thông Bảo hội sao theo chủ trương của Hồ Quý Ly, đây là tiền giấy đầu tiên của Việt Nam",
+    "thoi_ki": "Nhà Trần"
+  },
+  {
+    "noi dung": "1397 Hồ Quý Ly ép Trần Thuận Tông dời đô về Tây Đô",
+    "thoi_ki": "Nhà Trần"
+  },
+  {},
+  {
+    "noi dung": "1400",
+    "thoi_ki": "Nhà Hồ"
+  },
+  {},
+  {
+    "noi dung": "1400\u20131407 Chiến tranh Việt-Chiêm",
+    "thoi_ki": "Nhà Hồ"
+  },
+  {
+    "noi dung": "1406\u20131407 Chiến tranh Đại Ngu\u2013Đại Minh",
+    "thoi_ki": "Nhà Hồ"
+  },
+  {},
+  {
+    "noi dung": "1407 nhà Minh thôn tính Đại Ngu, đặt làm quận Giao Chỉ, trung tâm hành chính là Đông Quan",
+    "thoi_ki": "Thuộc Minh"
+  },
+  {},
+  {
+    "noi dung": "1413 nhà Hậu Trần bị nhà Minh đánh bại",
+    "thoi_ki": "Thuộc Minh"
+  },
+  {
+    "noi dung": "1418\u20131427 khởi nghĩa Lam Sơn",
+    "thoi_ki": "Thuộc Minh"
+  },
+  {},
+  {
+    "noi dung": "1428",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {},
+  {
+    "noi dung": "1442 Vụ án Lệ Chi viên",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1459\u20131460 Chính biến Thiên Hưng, Lê Thánh Tông lên ngôi",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1471 Chiến tranh Việt\u2013Chiêm, miền bắc Chiêm Thành sáp nhập vào Đại Việt",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1478\u20131480 Chiến tranh Đại Việt\u2013Lan Xang",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1483 biên soạn Luật Hồng Đức",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1511\u20131512 khởi nghĩa Trần Tuân",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1516\u20131521 khởi nghĩa Trần Cảo",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {
+    "noi dung": "1516-1526 Khủng hoảng cuối nhà Lê sơ và nội chiến",
+    "thoi_ki": "Nhà Lê sơ"
+  },
+  {},
+  {
+    "noi dung": "1527 Mạc Đăng Dung ép Lê Cung Hoàng nhường ngôi, lập lên nhà Mạc",
+    "thoi_ki": "Nhà Mạc"
+  },
+  {
+    "noi dung": "1533 Nguyễn Kim lập Lê Ninh làm vua, tái lập nhà Lê, đóng đô tại Vạn Lại",
+    "thoi_ki": "Nhà Mạc"
+  },
+  {
+    "noi dung": "1533\u20131677 Chiến tranh Lê\u2013Mạc",
+    "thoi_ki": "Nhà Mạc"
+  },
+  {},
+  {
+    "noi dung": "1592 nhà Lê trung hưng đánh bại nhà Mạc, lên nắm quyền điều hành đất nước",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1597 Lê Thế Tông dời đô về Đông Kinh",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1558 Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1627\u20131672 Trịnh \u2013 Nguyễn phân tranh",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1683 nhà Lê trung hưng đánh bại hoàn toàn nhà Mạc",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1771 khởi nghĩa Tây Sơn",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1774\u20131775 chiến tranh Bình Nam",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1777 Nguyễn Ánh xưng vương",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {
+    "noi dung": "1778 Nguyễn Nhạc xưng Hoàng đế, đặt niên hiệu Thái Đức, lập lên nhà Tây Sơn, đặt kinh đô tại Quy Nhơn",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {},
+  {
+    "noi dung": "1785",
+    "thoi_ki": "Nhà Lê trung hưng"
+  },
+  {},
+  {},
+  {
+    "noi dung": "1788 Nguyễn Nhạc từ bỏ đế hiệu, chỉ xưng Tây Sơn vương",
+    "thoi_ki": "Nhà Tây Sơn"
+  },
+  {},
+  {
+    "noi dung": "1789 Trận Ngọc Hồi \u2013 Đống Đa, đẩy lui quân xâm lược nhà Thanh, nhà Hậu Lê sụp đổ",
+    "thoi_ki": "Nhà Tây Sơn"
+  },
+  {
+    "noi dung": "1792",
+    "thoi_ki": "Nhà Tây Sơn"
+  },
+  {},
+  {},
+  {
+    "noi dung": "1802 Nguyễn Ánh đánh bại nhà Tây Sơn, lên ngôi vua, đặt niên hiệu là Gia Long, lập lên nhà Nguyễn, đặt kinh đô tại Phú Xuân",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1803\u20131855 Nổi dậy Đá Vách",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1804 Nguyễn Ánh đổi tên nước thành Việt Nam",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1821\u20131827 Khởi nghĩa Phan Bá Vành",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1833\u20131834 Chiến tranh Việt\u2013Xiêm",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1836 Việt Nam thôn tính Chân Lạp, đặt làm Trấn Tây Thành",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1839",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {},
+  {
+    "noi dung": "1841 rút quân khỏi Trấn Tây Thành, Xiêm đặt Ang Duong lên ngôi, tái lập Chân Lạp",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1858\u20131884 Chiến tranh Pháp-Đại Nam",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1861\u20131865 Bạo loạn ven biển",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1866 Chính biến chày vôi",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {
+    "noi dung": "1867 nhà Nguyễn cắt Nam Kỳ lục tỉnh nhượng cho Pháp",
+    "thoi_ki": "Nhà Nguyễn"
+  },
+  {},
+  {
+    "noi dung": "1884",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1885\u20131895 phong trào Cần Vương",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1887",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1893",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1898",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1902 Liên bang Đông Dương dời thủ đô về Hà Nội",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1906\u20131908 phong trào Duy Tân",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1908 phong trào chống sưu thuế Trung Kỳ",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1914\u20131918 khoảng 100.000 người Việt bị ép sang châu Âu chiến đấu cho Pháp trong Chiến tranh thế giới thứ nhất",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1917 khởi nghĩa Thái Nguyên",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1919",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1930",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1930\u20131931 phong trào Xô Viết Nghệ Tĩnh",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1939 khoảng 20.000 thanh niên Việt Nam bị cưỡng bức phục vụ Pháp trong chiến tranh thế giới thứ hai",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {
+    "noi dung": "1940",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1944",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {
+    "noi dung": "1945",
+    "thoi_ki": "Pháp thuộc"
+  },
+  {},
+  {},
+  {},
+  {},
+  {
+    "noi dung": "1945",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1946",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1947",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1949",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1950",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1954",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1955 Ngô Đình Diệm phế truất Bảo Đại, lên làm Tổng thống, lập nên Việt Nam Cộng hòa",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1959\u20131960 Phong trào Đồng khởi",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1960",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1961",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1961\u20131965 chiến dịch Chiến tranh đặc biệt",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1963 đảo chính lật đổ chính quyền Ngô Đình Diệm",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1965",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1965\u20131968 chiến dịch Chiến tranh cục bộ",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1968\u20131973 chiến dịch Việt Nam hóa chiến tranh",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "noi dung": "1969",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1972",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1973",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {
+    "noi dung": "1975",
+    "thoi_ki": "Việt Nam Dân chủ Cộng hòa"
+  },
+  {},
+  {}
+]
