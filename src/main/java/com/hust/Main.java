@@ -1,6 +1,6 @@
 package com.hust;
 
-import com.hust.crawl.CrawlData;
+import com.hust.crawler.CrawlData;
 
 public class Main {
     public static void main(String[] args) {

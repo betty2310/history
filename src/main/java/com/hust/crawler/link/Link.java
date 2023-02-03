@@ -1,4 +1,4 @@
-package com.hust.crawl.link;
+package com.hust.crawler.link;
 
 public interface Link {
     void writeToFile(String fileName);

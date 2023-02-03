@@ -1,4 +1,4 @@
-package com.hust.crawl.link;
+package com.hust.crawler.link;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -8,14 +8,14 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class FestivalLink extends AbstractLink {
-    public FestivalLink(String url) {
+public class SiteLink extends AbstractLink {
+    public SiteLink(String url) {
         super(url);
     }
 
     @Override
     protected void setProperties() {
-        properties = new String[]{"ngay_bat_dau", "vi_tri", "ten", "lan_dau_to_chuc", "nhan_vat_lien_quan", "ghi_chu"};
+        properties = new String[]{"ten", "vi_tri", "loai", "nam_cong_nhan", "ghi_chu"};
     }
 
     @Override

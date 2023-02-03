@@ -1,4 +1,4 @@
-package com.hust.crawl.link;
+package com.hust.crawler.link;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

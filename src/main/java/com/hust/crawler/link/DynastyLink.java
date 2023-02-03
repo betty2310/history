@@ -1,4 +1,4 @@
-package com.hust.crawl.link;
+package com.hust.crawler.link;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

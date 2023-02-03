@@ -1,6 +1,6 @@
-package com.hust.crawl;
+package com.hust.crawler;
 
-import com.hust.crawl.link.*;
+import com.hust.crawler.link.*;
 
 public class CrawlData {
     public CrawlData() {
