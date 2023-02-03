@@ -5,7 +5,7 @@ import com.hust.crawler.link.*;
 public class CrawlData {
     public CrawlData() {
         Link link = new DynastyLink("https://vi.wikipedia.org/wiki/Vua_Vi%E1%BB%87t_Nam#%C4%90%E1%BB%8Dc_th%C3%AAm");
-        link.writeToFile("Dynasty.json");
+//        link.writeToFile("Dynasty.json");
 //        link = new FigureLink("https://nguoikesu.com/nhan-vat");
 //        link.writeToFile("HistoricalFigure.json");
 //        link = new SiteLink("https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam");

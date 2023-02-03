@@ -21,7 +21,7 @@ public class FigureLink extends AbstractLink {
 
     @Override
     protected void setProperties() {
-        properties = new String[]{"name", "birth", "death", "url"};
+        properties = new String[]{"ten", "sinh", "mat", "url"};
     }
 
     @Override

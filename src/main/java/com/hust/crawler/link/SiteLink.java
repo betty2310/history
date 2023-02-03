@@ -15,7 +15,7 @@ public class SiteLink extends AbstractLink {
 
     @Override
     protected void setProperties() {
-        properties = new String[]{"ten", "vi_tri", "loai", "nam_cong_nhan", "ghi_chu"};
+        properties = new String[]{"ten", "vi_tri", "loai", "nam_cong_nhan", "ghi_chu", ""};
     }
 
     @Override
@@ -34,11 +34,7 @@ public class SiteLink extends AbstractLink {
                 Elements columns = row.select("td");
                 ArrayList<String> data = new ArrayList<>();
                 for (Element column : columns) {
-                    if (column.text().isEmpty()) {
-                        data.add("");
-                    } else {
-                        data.add(column.text());
-                    }
+                    data.add(column.text());
                 }
                 getData().add(data);
             }
