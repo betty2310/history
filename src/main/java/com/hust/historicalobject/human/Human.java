@@ -1,2 +1,4 @@
-package com.hust.historicalobject.human;public class Human {
+package com.hust.historicalobject.human;
+
+public abstract class Human {
 }

@@ -23,10 +23,9 @@ public abstract class AbstractLink implements Link {
     public void writeToFile(String fileName) {
         setProperties();
         String filePath = fileName;
-        System.out.println(getClass().getResource("."));
         System.out.println("Begin crawling " + url);
         crawl(url);
-        System.out.println("Finish crawling " + url);
+        System.out.println("Finish crawling and write to file: " + filePath);
         JSONArray jsonArray = new JSONArray();
         for (ArrayList<String> item : data) {
             JSONObject obj = new JSONObject();
