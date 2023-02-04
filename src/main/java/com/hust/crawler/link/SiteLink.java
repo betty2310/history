@@ -30,13 +30,29 @@ public class SiteLink extends AbstractLink {
         Elements tables = doc.select("table.wikitable");
         for (Element table : tables) {
             Elements rows = table.select("tr");
-            for (Element row : rows) {
-                Elements columns = row.select("td");
-                ArrayList<String> data = new ArrayList<>();
-                for (Element column : columns) {
-                    data.add(column.text());
+            Elements numCols = table.select("th");
+            if (numCols.size() == 5) {
+                for (Element row : rows) {
+                    Elements columns = row.select("td");
+                    ArrayList<String> data = new ArrayList<>();
+                    for (Element column : columns) {
+                        data.add(column.text());
+                    }
+                    getData().add(data);
                 }
-                getData().add(data);
+            } else {
+                for (Element row : rows) {
+                    Elements columns = row.select("td");
+                    ArrayList<String> data = new ArrayList<>();
+                    if (columns.size() > 0) {
+                        data.add(columns.get(1).text());
+                        data.add(columns.get(2).text());
+                        data.add("Lịch sử");
+                        data.add("-1");
+                        data.add(columns.get(3).text());
+                        getData().add(data);
+                    }
+                }
             }
         }
     }
