@@ -12,5 +12,13 @@ public abstract class HistoricalObject {
         this.name = name;
         this.birth = birth;
     }
+    public  String getName() {
+        return name;
+    }
+
+    public MyDate getBirth() {
+        return birth;
+    }
+
     public abstract void setToTimeLine();
 }

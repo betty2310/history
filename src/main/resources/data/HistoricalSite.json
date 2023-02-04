@@ -4759,576 +4759,670 @@
     "ten": "Đền, chùa Hà Dương",
     "vi_tri": "Hoàng Nam, Nghĩa Hưng"
   },
-  {},
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Đền Vua Đinh là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa.",
-    "ten": "1",
-    "vi_tri": "Đền Vua Đinh Tiên Hoàng"
+    "ghi_chu": "Đền Vua Đinh là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Vua Đinh Tiên Hoàng",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Đền Vua Lê là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa.",
-    "ten": "2",
-    "vi_tri": "Đền Vua Lê Đại Hành"
+    "ghi_chu": "Đền Vua Lê là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Vua Lê Đại Hành",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Thờ các vua đầu nhà Trần: Thái Tông, Thánh Tông, Nhân Tông, Anh Tông, Trần Hưng Đạo, Trần Quang Khải và hoàng hậu Thuận Thiên đã lập ra hành cung Vũ Lâm",
-    "ten": "3",
-    "vi_tri": "Đền Thái Vi"
+    "ghi_chu": "Thờ các vua đầu nhà Trần: Thái Tông, Thánh Tông, Nhân Tông, Anh Tông, Trần Hưng Đạo, Trần Quang Khải và hoàng hậu Thuận Thiên đã lập ra hành cung Vũ Lâm",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Thái Vi",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Thờ thần Quý Minh - vị thổ thần từ thời Hùng Vương được Đinh Tiên Hoàng đế phong trấn Nam Hoa Lư tứ trấn",
-    "ten": "4",
-    "vi_tri": "Đền Suối Tiên"
+    "ghi_chu": "Thờ thần Quý Minh - vị thổ thần từ thời Hùng Vương được Đinh Tiên Hoàng đế phong trấn Nam Hoa Lư tứ trấn",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Suối Tiên",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Do Vua Đinh Tiên Hoàng cho lập để thờ thần Quý Minh, Vua Trần Thái Tông sau này đã xây dựng lại đền đá như kiến trúc hiện nay nên gọi là đền Trần.",
-    "ten": "5",
-    "vi_tri": "Đền Trần"
+    "ghi_chu": "Do Vua Đinh Tiên Hoàng cho lập để thờ thần Quý Minh, Vua Trần Thái Tông sau này đã xây dựng lại đền đá như kiến trúc hiện nay nên gọi là đền Trần.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Trần",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Thờ 2 vị tướng nhà Đinh có công bảo vệ ấu chúa Đinh Toàn và tận trung với nhà Đinh, chống đối việc lên ngôi của Lê Hoàn.",
-    "ten": "6",
-    "vi_tri": "Đền Trình"
+    "ghi_chu": "Thờ 2 vị tướng nhà Đinh có công bảo vệ ấu chúa Đinh Toàn và tận trung với nhà Đinh, chống đối việc lên ngôi của Lê Hoàn.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Trình",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Thờ Tứ trụ triều Đình nhà Đinh: Tể tướng Nguyễn Bặc; Ngoại giáp Đinh Điền; Thượng thư Trịnh Tú; Thái sư Lưu Cơ.",
-    "ten": "7",
-    "vi_tri": "Đền Tứ Trụ"
+    "ghi_chu": "Thờ Tứ trụ triều Đình nhà Đinh: Tể tướng Nguyễn Bặc; Ngoại giáp Đinh Điền; Thượng thư Trịnh Tú; Thái sư Lưu Cơ.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Tứ Trụ",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Nằm ở làng cổ Yên Thành, thờ Công chúa Phất Kim con gái Vua Đinh Tiên Hoàng, người được Vua Đinh gả cho sứ quân Ngô Nhật Khánh.",
-    "ten": "8",
-    "vi_tri": "Đền thờ Công chúa Phất Kim"
+    "ghi_chu": "Nằm ở làng cổ Yên Thành, thờ Công chúa Phất Kim con gái Vua Đinh Tiên Hoàng, người được Vua Đinh gả cho sứ quân Ngô Nhật Khánh.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền thờ Công chúa Phất Kim",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Sơn Hà - Nho Quan",
-    "nam_cong_nhan": "Động Thiên Hà là hang động đẹp, gồm cả động khô và động ướt với đa dạng hệ thống nhũ đá vẫn được kiến tạo. Động chứa nhiều dấu vết để lại của cư dân Việt cổ.",
-    "ten": "9",
-    "vi_tri": "Động Thiên Hà"
+    "ghi_chu": "Động Thiên Hà là hang động đẹp, gồm cả động khô và động ướt với đa dạng hệ thống nhũ đá vẫn được kiến tạo. Động chứa nhiều dấu vết để lại của cư dân Việt cổ.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Thiên Hà",
+    "vi_tri": "Sơn Hà - Nho Quan"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Động xuyên thủy dài hơn 1500m có hệ thống nhũ đá muôn hình vạn trạng. Du khách được đi trên một hành lang bằng bè tre để xuyên vào trong lòng động.",
-    "ten": "10",
-    "vi_tri": "Động Tiên Cá"
+    "ghi_chu": "Động xuyên thủy dài hơn 1500m có hệ thống nhũ đá muôn hình vạn trạng. Du khách được đi trên một hành lang bằng bè tre để xuyên vào trong lòng động.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Tiên Cá",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Động Vái Giời rộng khoảng 5000m2, cửa động nằm ở độ cao 439 bậc đá với 3 tầng \"Trần gian, Địa ngục và Thiên đường\" với nhiều măng nhũ đá lung linh huyền ảo.",
-    "ten": "11",
-    "vi_tri": "Động Vái Giời"
+    "ghi_chu": "Động Vái Giời rộng khoảng 5000m2, cửa động nằm ở độ cao 439 bậc đá với 3 tầng \"Trần gian, Địa ngục và Thiên đường\" với nhiều măng nhũ đá lung linh huyền ảo.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Vái Giời",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Xuyên thủy động nằm trong lòng núi Bích Động, nơi có ngôi chùa cổ được xây dựng từ thời Hậu Lê. Danh thắng được mệnh danh là \"Nam thiên đệ nhị động\"",
-    "ten": "12",
-    "vi_tri": "Động, chùa Bích Động"
+    "ghi_chu": "Xuyên thủy động nằm trong lòng núi Bích Động, nơi có ngôi chùa cổ được xây dựng từ thời Hậu Lê. Danh thắng được mệnh danh là \"Nam thiên đệ nhị động\"",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động, chùa Bích Động",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Là pháp trường xử án thời Đinh, nơi gắn bó và tôn thờ các danh nhân: Trương Ma Ni, Thái hậu Dương Vân Nga và Quốc sư Nguyễn Minh Không.",
-    "ten": "13",
-    "vi_tri": "Động Am Tiên"
+    "ghi_chu": "Là pháp trường xử án thời Đinh, nơi gắn bó và tôn thờ các danh nhân: Trương Ma Ni, Thái hậu Dương Vân Nga và Quốc sư Nguyễn Minh Không.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Am Tiên",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "TổngTrường Yên xưa gồm 7 làng cổ: Yên Thượng, Yên Thành, Yên Trung, Yên Hạ, Yên Trạch, Chi Phong và Lạc Hối. Ngôi đình trong làng cổ Yên Trạch thờ Đinh Tiên Hoàng.",
-    "ten": "14",
-    "vi_tri": "Đình Yên Trạch"
+    "ghi_chu": "TổngTrường Yên xưa gồm 7 làng cổ: Yên Thượng, Yên Thành, Yên Trung, Yên Hạ, Yên Trạch, Chi Phong và Lạc Hối. Ngôi đình trong làng cổ Yên Trạch thờ Đinh Tiên Hoàng.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Yên Trạch",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Di chỉ khảo cổ học chứa đựng dấu ấn người tiền sử sinh sống tại Tràng An cách ngày nay từ 5.000 đến 30.000 năm.",
-    "ten": "15",
-    "vi_tri": "Hang Bói"
+    "ghi_chu": "Di chỉ khảo cổ học chứa đựng dấu ấn người tiền sử sinh sống tại Tràng An cách ngày nay từ 5.000 đến 30.000 năm.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Bói",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Di chỉ khảo cổ học thể hiện cư dân Tràng An sống ở 2 trạng thái môi trường khác nhau: lục địa và biển; mức sớm từ 7.000 đến 10.000 năm, muộn từ 3.500 đến 6.000 năm.",
-    "ten": "16",
-    "vi_tri": "Hang Mòi"
+    "ghi_chu": "Di chỉ khảo cổ học thể hiện cư dân Tràng An sống ở 2 trạng thái môi trường khác nhau: lục địa và biển; mức sớm từ 7.000 đến 10.000 năm, muộn từ 3.500 đến 6.000 năm.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Mòi",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Di chỉ khảo cổ học hang Trống là hang động có nhiều di vật, dấu tích của người tiền sử từ 3.000-30.000 năm trước thuộc nền văn hóa Tràng An",
-    "ten": "17",
-    "vi_tri": "Hang Trống"
+    "ghi_chu": "Di chỉ khảo cổ học hang Trống là hang động có nhiều di vật, dấu tích của người tiền sử từ 3.000-30.000 năm trước thuộc nền văn hóa Tràng An",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Trống",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Hang Bụt là một hang đá tự nhiên dài 500m, xuyên thủy qua núi Tướng. Nơi rộng nhất tới 70m, trần hang cao khoảng 30m, hang có hệ thống nhũ đá lung linh kỳ ảo.",
-    "ten": "18",
-    "vi_tri": "Hang Bụt"
+    "ghi_chu": "Hang Bụt là một hang đá tự nhiên dài 500m, xuyên thủy qua núi Tướng. Nơi rộng nhất tới 70m, trần hang cao khoảng 30m, hang có hệ thống nhũ đá lung linh kỳ ảo.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Bụt",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Ninh Xuân - Hoa Lư",
-    "nam_cong_nhan": "Là căn cứ quân sự do Các vua đầu nhà Trần lập để củng cố lực lượng trong kháng chiến Nguyên Mông. Đây còn là nơi các vua Trần xuất gia tu hành, mở mang phật giáo.",
-    "ten": "19",
-    "vi_tri": "Hành cung Vũ Lâm"
+    "ghi_chu": "Là căn cứ quân sự do Các vua đầu nhà Trần lập để củng cố lực lượng trong kháng chiến Nguyên Mông. Đây còn là nơi các vua Trần xuất gia tu hành, mở mang phật giáo.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hành cung Vũ Lâm",
+    "vi_tri": "Ninh Xuân - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Thờ 7 vị quan trung thần với triều Đinh và Vị quan trấn ải nơi đây đã lập đền thờ và trồng cây thị đặc biệt ở bên cạnh phủ.",
-    "ten": "20",
-    "vi_tri": "Phủ Khống"
+    "ghi_chu": "Thờ 7 vị quan trung thần với triều Đinh và Vị quan trấn ải nơi đây đã lập đền thờ và trồng cây thị đặc biệt ở bên cạnh phủ.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Phủ Khống",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "",
-    "nam_cong_nhan": "Vườn chim trải rộng trên diện tích hơn 300ha, là nơi cư trú của khoảng 40.000 con, khoảng 5.000 tổ chim các loại, thuộc 46 loài chim, nhiều loài trong sách Đỏ VN.",
-    "ten": "21",
-    "vi_tri": "Vườn chim Thung Nham"
+    "ghi_chu": "Vườn chim trải rộng trên diện tích hơn 300ha, là nơi cư trú của khoảng 40.000 con, khoảng 5.000 tổ chim các loại, thuộc 46 loài chim, nhiều loài trong sách Đỏ VN.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Vườn chim Thung Nham",
+    "vi_tri": ""
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Chùa Duyên Ninh được xem là một trong những ngôi chùa cầu duyên nổi tiếng nhất ở Việt Nam. Chùa được xây dựng từ thế kỷ X dưới thời vua Đinh Tiên Hoàng.",
-    "ten": "22",
-    "vi_tri": "Chùa Duyên Ninh"
+    "ghi_chu": "Chùa Duyên Ninh được xem là một trong những ngôi chùa cầu duyên nổi tiếng nhất ở Việt Nam. Chùa được xây dựng từ thế kỷ X dưới thời vua Đinh Tiên Hoàng.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Duyên Ninh",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Chùa Bà Ngô là một di tích thuộc quần thể di tích quốc gia đặc biệt cố đô Hoa Lư, chùa được xây từ thời nhà Đinh, gắn với vị hoàng hậu là bà Ngô phu nhân.",
-    "ten": "23",
-    "vi_tri": "Chùa Bà Ngô"
+    "ghi_chu": "Chùa Bà Ngô là một di tích thuộc quần thể di tích quốc gia đặc biệt cố đô Hoa Lư, chùa được xây từ thời nhà Đinh, gắn với vị hoàng hậu là bà Ngô phu nhân.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Bà Ngô",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Chùa cổ thời Tiền Lê, nơi có bảo vật quốc gia cột kinh bằng đá với nhiều dấu tích minh chứng cho sự phát triển rực rỡ của phật giáo Hoa Lư thế kỷ X.",
-    "ten": "24",
-    "vi_tri": "Chùa Nhất Trụ"
+    "ghi_chu": "Chùa cổ thời Tiền Lê, nơi có bảo vật quốc gia cột kinh bằng đá với nhiều dấu tích minh chứng cho sự phát triển rực rỡ của phật giáo Hoa Lư thế kỷ X.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Nhất Trụ",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Ngôi chùa cổ từ thời Đinh, thuộc làng Chi Phong - thành Tây kinh đô Hoa Lư là nơi sinh ra Vua Lý Thái Tông đồng thời là ngôi chùa cầu duyên nổi tiếng ở Việt Nam.",
-    "ten": "25",
-    "vi_tri": "Chùa Kim Ngân"
+    "ghi_chu": "Ngôi chùa cổ từ thời Đinh, thuộc làng Chi Phong - thành Tây kinh đô Hoa Lư là nơi sinh ra Vua Lý Thái Tông đồng thời là ngôi chùa cầu duyên nổi tiếng ở Việt Nam.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Kim Ngân",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Hang Muối nằm ở gần sông Sào Khê thuộc phạm vi thành Đông kinh đô Hoa Lư, tương truyền là nơi cất giữ muối, lương thực.",
-    "ten": "26",
-    "vi_tri": "Hang Muối"
+    "ghi_chu": "Hang Muối nằm ở gần sông Sào Khê thuộc phạm vi thành Đông kinh đô Hoa Lư, tương truyền là nơi cất giữ muối, lương thực.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Muối",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Hang Quàn nằm trong ngọn núi là tường thành Đông của kinh đô Hoa Lư, tương truyền là nơi các quan sử dụng kỹ thuật ướp xác để bảo vệ thi thể Vua Đinh.",
-    "ten": "27",
-    "vi_tri": "Hang Quàn"
+    "ghi_chu": "Hang Quàn nằm trong ngọn núi là tường thành Đông của kinh đô Hoa Lư, tương truyền là nơi các quan sử dụng kỹ thuật ướp xác để bảo vệ thi thể Vua Đinh.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Hang Quàn",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Núi có 2 ngôi chùa thời Đinh. Chùa Am thuộc thôn Yên Trung, nằm ở phía tây bắc núi; chùa Đìa thuộc thôn Yên Thành, nằm ở phía đông nam núi Đìa, xã Trường Yên.",
-    "ten": "28",
-    "vi_tri": "Núi Chùa Am"
+    "ghi_chu": "Núi có 2 ngôi chùa thời Đinh. Chùa Am thuộc thôn Yên Trung, nằm ở phía tây bắc núi; chùa Đìa thuộc thôn Yên Thành, nằm ở phía đông nam núi Đìa, xã Trường Yên.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Núi Chùa Am",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Ninh Hải - Hoa Lư",
-    "nam_cong_nhan": "Danh thắng Tam Cốc gồm cảnh quan thiên nhiên 2 bên sông Ngô Đồng đâm xuyên qua núi tạo ra 3 hang động xuyên thủy.",
-    "ten": "29",
-    "vi_tri": "Tam Cốc"
+    "ghi_chu": "Danh thắng Tam Cốc gồm cảnh quan thiên nhiên 2 bên sông Ngô Đồng đâm xuyên qua núi tạo ra 3 hang động xuyên thủy.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Tam Cốc",
+    "vi_tri": "Ninh Hải - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Phủ Đông Vương nằm biệt lập. Thờ Hoàng tử Đông Thành Vương Lê Ngân Tích, con thứ hai của Vua Lê Đại Hành.",
-    "ten": "30",
-    "vi_tri": "Phủ Đông Vương"
+    "ghi_chu": "Phủ Đông Vương nằm biệt lập. Thờ Hoàng tử Đông Thành Vương Lê Ngân Tích, con thứ hai của Vua Lê Đại Hành.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Phủ Đông Vương",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Phủ Vườn Thiên nằm ở làng cổ Yên Thành. Thờ Thái tử Kình Thiên Vương Lê Long Thâu là thái tử, con cả Vua Lê Đại Hành nên còn gọi là phủ Kình Thiên.",
-    "ten": "31",
-    "vi_tri": "Phủ Vườn Thiên"
+    "ghi_chu": "Phủ Vườn Thiên nằm ở làng cổ Yên Thành. Thờ Thái tử Kình Thiên Vương Lê Long Thâu là thái tử, con cả Vua Lê Đại Hành nên còn gọi là phủ Kình Thiên.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Phủ Vườn Thiên",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Bia Cửa Đông (bia hang Thầy Bói) được tạc dưới chân núi Đầm, gọi cửa thành này là Đông Môn, là nơi bá quan văn võ triều Đinh Lê qua lại mỗi khi vào triều bệ kiến.",
-    "ten": "32",
-    "vi_tri": "Bia Cửa Đông"
+    "ghi_chu": "Bia Cửa Đông (bia hang Thầy Bói) được tạc dưới chân núi Đầm, gọi cửa thành này là Đông Môn, là nơi bá quan văn võ triều Đinh Lê qua lại mỗi khi vào triều bệ kiến.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Bia Cửa Đông",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Trường Yên - Hoa Lư",
-    "nam_cong_nhan": "Lăng Vua Đinh Tiên Hoàng nằm trên núi Mã Yên còn lăng Vua Lê Đại Hành nằm ở dưới chân núi Mã Yên; thuộc phạm vi thành Đông kinh đô Hoa Lư.",
-    "ten": "33",
-    "vi_tri": "Lăng vua Đinh, lăng vua Lê"
+    "ghi_chu": "Lăng Vua Đinh Tiên Hoàng nằm trên núi Mã Yên còn lăng Vua Lê Đại Hành nằm ở dưới chân núi Mã Yên; thuộc phạm vi thành Đông kinh đô Hoa Lư.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Lăng vua Đinh, lăng vua Lê",
+    "vi_tri": "Trường Yên - Hoa Lư"
   },
   {
-    "loai": "Gia Sinh - Gia Viễn",
-    "nam_cong_nhan": "Nơi có khu chùa cổ với hang động, đền thờ thần Cao Sơn có từ thời Đinh và Khu chùa mới với nhiều kỷ lục Việt Nam và châu Á được xác lập.",
-    "ten": "34",
-    "vi_tri": "Núi chùa Bái Đính"
+    "ghi_chu": "Nơi có khu chùa cổ với hang động, đền thờ thần Cao Sơn có từ thời Đinh và Khu chùa mới với nhiều kỷ lục Việt Nam và châu Á được xác lập.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Núi chùa Bái Đính",
+    "vi_tri": "Gia Sinh - Gia Viễn"
   },
   {
-    "loai": "Thanh Bình - Tp Ninh Bình",
-    "nam_cong_nhan": "Núi nổi tiếng với hơn 100 bài thơ khắc lên đá. Trên núi có lầu đón gió và Tượng đài anh hùng Lương Văn Tụy. Chân núi là chùa Non Nước và đền Trương Hán Siêu.",
-    "ten": "35",
-    "vi_tri": "Núi Non Nước"
+    "ghi_chu": "Núi nổi tiếng với hơn 100 bài thơ khắc lên đá. Trên núi có lầu đón gió và Tượng đài anh hùng Lương Văn Tụy. Chân núi là chùa Non Nước và đền Trương Hán Siêu.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Núi Non Nước",
+    "vi_tri": "Thanh Bình - Tp Ninh Bình"
   },
   {
-    "loai": "Thanh Bình - Tp Ninh Bình",
-    "nam_cong_nhan": "Ngọn núi có hình cô gái tóc xõa mình trần nằm giữa thanh thiên trời đất. Bên núi có chùa Cánh Diều và đền thờ thần Thiên Tôn trấn đông Hoa Lư tứ trấn",
-    "ten": "36",
-    "vi_tri": "Núi Cánh Diều"
+    "ghi_chu": "Ngọn núi có hình cô gái tóc xõa mình trần nằm giữa thanh thiên trời đất. Bên núi có chùa Cánh Diều và đền thờ thần Thiên Tôn trấn đông Hoa Lư tứ trấn",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Núi Cánh Diều",
+    "vi_tri": "Thanh Bình - Tp Ninh Bình"
   },
   {
-    "loai": "Ninh Khánh - Tp Ninh Bình",
-    "nam_cong_nhan": "Một trong những ngôi chùa cổ thời Trần do Trần Thái Tông xây dựng khi về Ninh Bình lập hành cung Vũ Lâm trong kháng chiến Nguyên Mông",
-    "ten": "37",
-    "vi_tri": "Chùa A Nậu"
+    "ghi_chu": "Một trong những ngôi chùa cổ thời Trần do Trần Thái Tông xây dựng khi về Ninh Bình lập hành cung Vũ Lâm trong kháng chiến Nguyên Mông",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa A Nậu",
+    "vi_tri": "Ninh Khánh - Tp Ninh Bình"
   },
   {
-    "loai": "Tân Thành - Tp Ninh Bình",
-    "nam_cong_nhan": "Chùa Đẩu Long là ngôi chùa cổ, có lịch sử hình thành từ thời Đinh - Lê thế kỷ X. Chùa là di tích lịch sử văn hóa quốc gia, thờ 9 vị thần của các làng xung quanh.",
-    "ten": "38",
-    "vi_tri": "Chùa Đẩu Long"
+    "ghi_chu": "Chùa Đẩu Long là ngôi chùa cổ, có lịch sử hình thành từ thời Đinh - Lê thế kỷ X. Chùa là di tích lịch sử văn hóa quốc gia, thờ 9 vị thần của các làng xung quanh.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Đẩu Long",
+    "vi_tri": "Tân Thành - Tp Ninh Bình"
   },
   {
-    "loai": "Thiên Tôn - Hoa Lư",
-    "nam_cong_nhan": "Động chùa Thiên Tôn là di tích thờ thần Thiên Tôn, là vị thiên thần trấn ngự ở cửa ngõ phía đông vào thành Đông của khu di tích cố đô Hoa Lư.",
-    "ten": "39",
-    "vi_tri": "Động Thiên Tôn"
+    "ghi_chu": "Động chùa Thiên Tôn là di tích thờ thần Thiên Tôn, là vị thiên thần trấn ngự ở cửa ngõ phía đông vào thành Đông của khu di tích cố đô Hoa Lư.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Thiên Tôn",
+    "vi_tri": "Thiên Tôn - Hoa Lư"
   },
   {
-    "loai": "Ninh Giang - Hoa Lư",
-    "nam_cong_nhan": "Chùa Trung Trữ là di tích cấp quốc gia từ năm 1990. Chùa cùng khu vực với đình Trung Trữ thờ các vị vua và hoàng hậu triều đại nhà Đinh và Tiền Lê.",
-    "ten": "40",
-    "vi_tri": "Chùa Trung Trữ"
+    "ghi_chu": "Chùa Trung Trữ là di tích cấp quốc gia từ năm 1990. Chùa cùng khu vực với đình Trung Trữ thờ các vị vua và hoàng hậu triều đại nhà Đinh và Tiền Lê.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Trung Trữ",
+    "vi_tri": "Ninh Giang - Hoa Lư"
   },
   {
-    "loai": "Ninh Giang - Hoa Lư",
-    "nam_cong_nhan": "Đền Cả La Mai được xếp hạng di tích lịch sử quốc gia năm 1994; làng La Mai ở ven sông Đáy, thờ Thánh Quý Minh - vị thần trấn Nam Hoa Lư tứ trấn",
-    "ten": "41",
-    "vi_tri": "Đền Cả La Mai"
+    "ghi_chu": "Đền Cả La Mai được xếp hạng di tích lịch sử quốc gia năm 1994; làng La Mai ở ven sông Đáy, thờ Thánh Quý Minh - vị thần trấn Nam Hoa Lư tứ trấn",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Cả La Mai",
+    "vi_tri": "Ninh Giang - Hoa Lư"
   },
   {
-    "loai": "Ninh Giang - Hoa Lư",
-    "nam_cong_nhan": "Chùa Phong Phú có từ thời Đinh Tiên Hoàng (thế kỷ X), thờ thần Trấn Vũ Thiên Tôn. Người xưa đa khéo lợi dụng hang động trong ruột núi để làm chùa.",
-    "ten": "42",
-    "vi_tri": "Chùa Phong Phú"
+    "ghi_chu": "Chùa Phong Phú có từ thời Đinh Tiên Hoàng (thế kỷ X), thờ thần Trấn Vũ Thiên Tôn. Người xưa đa khéo lợi dụng hang động trong ruột núi để làm chùa.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Phong Phú",
+    "vi_tri": "Ninh Giang - Hoa Lư"
   },
   {
-    "loai": "Ninh An - Hoa Lư",
-    "nam_cong_nhan": "Đền Đông Hội là một trong các di tích có sớm nhất Ninh Bình, từ thời Hai Bà Trưng gọi là Chùa Thanh Xuân. Đền thờ ba anh em, là Đống Bụt, Diệu Vũ và Ngọc nữ Trần Hoa.",
-    "ten": "43",
-    "vi_tri": "Đền Đông Hội"
+    "ghi_chu": "Đền Đông Hội là một trong các di tích có sớm nhất Ninh Bình, từ thời Hai Bà Trưng gọi là Chùa Thanh Xuân. Đền thờ ba anh em, là Đống Bụt, Diệu Vũ và Ngọc nữ Trần Hoa.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Đông Hội",
+    "vi_tri": "Ninh An - Hoa Lư"
   },
   {
-    "loai": "Ninh An - Hoa Lư",
-    "nam_cong_nhan": "Nhà thờ họ Đào ở Hoa Lư là nhà thờ họ duy nhất tại tỉnh Ninh Bình được công nhận là di tích cấp quốc gia. Nhà thờ nằm trên một khu đất cao, rộng quay hướng chính đông.",
-    "ten": "44",
-    "vi_tri": "Nhà thờ họ Đào"
+    "ghi_chu": "Nhà thờ họ Đào ở Hoa Lư là nhà thờ họ duy nhất tại tỉnh Ninh Bình được công nhận là di tích cấp quốc gia. Nhà thờ nằm trên một khu đất cao, rộng quay hướng chính đông.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ họ Đào",
+    "vi_tri": "Ninh An - Hoa Lư"
   },
   {
-    "loai": "Ninh Vân - Hoa Lư",
-    "nam_cong_nhan": "Đền Kê Thượng thờ vọng Hùng Vương và Tản Viên. Đền Kê Hạ thờ Nguyệt Nga Công Chúa. Đền Miễu Sơn thờ Tản Viên, Cao Sơn, Quý Minh.",
-    "ten": "45",
-    "vi_tri": "Đền Kê Thượng, Kê Hạ, Miếu Sơn"
+    "ghi_chu": "Đền Kê Thượng thờ vọng Hùng Vương và Tản Viên. Đền Kê Hạ thờ Nguyệt Nga Công Chúa. Đền Miễu Sơn thờ Tản Viên, Cao Sơn, Quý Minh.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Kê Thượng, Kê Hạ, Miếu Sơn",
+    "vi_tri": "Ninh Vân - Hoa Lư"
   },
   {
-    "loai": "Ninh Xuân - Hoa Lư",
-    "nam_cong_nhan": "Chùa Bàn Long là chùa thiên tạo và nhân tạo, lấy động núi và con người làm chùa. Khi chúa Trịnh Sâm đã đến thăm, tay đề ba chữ lớn: \u201cBàn Long Tự\u201d trên vách cửa động.",
-    "ten": "46",
-    "vi_tri": "Chùa và động Bàn Long"
+    "ghi_chu": "Chùa Bàn Long là chùa thiên tạo và nhân tạo, lấy động núi và con người làm chùa. Khi chúa Trịnh Sâm đã đến thăm, tay đề ba chữ lớn: \u201cBàn Long Tự\u201d trên vách cửa động.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa và động Bàn Long",
+    "vi_tri": "Ninh Xuân - Hoa Lư"
   },
   {
-    "loai": "Ninh Hòa - Hoa Lư",
-    "nam_cong_nhan": "Tương truyền rằng động Hoa Sơn là nơi nuôi Ấu chúa thời vua Đinh. Trước đây động có tên là chùa Bà Đẻ, sau này khi vua Tự Đức đến thăm đổi tên động thành Hoa Sơn.",
-    "ten": "47",
-    "vi_tri": "Chùa và động Hoa Sơn"
+    "ghi_chu": "Tương truyền rằng động Hoa Sơn là nơi nuôi Ấu chúa thời vua Đinh. Trước đây động có tên là chùa Bà Đẻ, sau này khi vua Tự Đức đến thăm đổi tên động thành Hoa Sơn.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa và động Hoa Sơn",
+    "vi_tri": "Ninh Hòa - Hoa Lư"
   },
   {
-    "loai": "Ninh Hòa - Hoa Lư",
-    "nam_cong_nhan": "Đình Ngô Khê Hạ là một ngôi đình kiến trúc cổ, trong đình có tượng Định Quốc công Nguyễn Bặc và hơn 10 đạo sắc phong của các triều đại là những di vật lịch sử quý báu.",
-    "ten": "48",
-    "vi_tri": "Đình Ngô Khê Hạ"
+    "ghi_chu": "Đình Ngô Khê Hạ là một ngôi đình kiến trúc cổ, trong đình có tượng Định Quốc công Nguyễn Bặc và hơn 10 đạo sắc phong của các triều đại là những di vật lịch sử quý báu.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Ngô Khê Hạ",
+    "vi_tri": "Ninh Hòa - Hoa Lư"
   },
   {
-    "loai": "Gia Tiến, Gia Thắng - Gia Viễn",
-    "nam_cong_nhan": "Là di tích kiến trúc nghệ thuật quốc gia có giá trị đặc biệt ở Ninh Bình. Đền thờ thánh Nguyễn Minh Không trên quê hương ông.",
-    "ten": "49",
-    "vi_tri": "Đền Thánh Nguyễn"
+    "ghi_chu": "Là di tích kiến trúc nghệ thuật quốc gia có giá trị đặc biệt ở Ninh Bình. Đền thờ thánh Nguyễn Minh Không trên quê hương ông.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Thánh Nguyễn",
+    "vi_tri": "Gia Tiến, Gia Thắng - Gia Viễn"
   },
   {
-    "loai": "Gia Thanh - Gia Viễn",
-    "nam_cong_nhan": "Động Địch Lộng được mệnh danh là \"Nam thiên đệ tam động\". Động gồm quần thể hang động, núi, kiến trúc đình, chùa thờ Phật và quốc sư Nguyễn Minh Không.",
-    "ten": "50",
-    "vi_tri": "Chùa và động Địch Lộng"
+    "ghi_chu": "Động Địch Lộng được mệnh danh là \"Nam thiên đệ tam động\". Động gồm quần thể hang động, núi, kiến trúc đình, chùa thờ Phật và quốc sư Nguyễn Minh Không.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa và động Địch Lộng",
+    "vi_tri": "Gia Thanh - Gia Viễn"
   },
   {
-    "loai": "Gia Phương - Gia Viễn",
-    "nam_cong_nhan": "Đền Văn Bòng là di tích thờ Vua Đinh Tiên Hoàng trên quê hương của ông. Đền cùng với khu di tích lăng Phát tích trên núi Kỳ Lân trở thành điểm du lịch về nguồn.",
-    "ten": "51",
-    "vi_tri": "Đền thờ Đinh Bộ Lĩnh"
+    "ghi_chu": "Đền Văn Bòng là di tích thờ Vua Đinh Tiên Hoàng trên quê hương của ông. Đền cùng với khu di tích lăng Phát tích trên núi Kỳ Lân trở thành điểm du lịch về nguồn.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền thờ Đinh Bộ Lĩnh",
+    "vi_tri": "Gia Phương - Gia Viễn"
   },
   {
-    "loai": "Gia Hưng - Gia Viễn",
-    "nam_cong_nhan": "Động Hoa Lư là căn cứ ban đầu của Đinh Bộ Lĩnh trong quá trình gây dựng, chiêu binh để dẹp loạn 12 sứ quân. Động nằm trong quần thể đầm Cút, đầm Vân Long.",
-    "ten": "52",
-    "vi_tri": "Động Hoa Lư"
+    "ghi_chu": "Động Hoa Lư là căn cứ ban đầu của Đinh Bộ Lĩnh trong quá trình gây dựng, chiêu binh để dẹp loạn 12 sứ quân. Động nằm trong quần thể đầm Cút, đầm Vân Long.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Động Hoa Lư",
+    "vi_tri": "Gia Hưng - Gia Viễn"
   },
   {
-    "loai": "Gia Tân - Gia Viễn",
-    "nam_cong_nhan": "Đình Trùng Hạ là di tích kiến trúc nghệ thuật thờ 5 vị: Đông Hải đại vương, Sóc Giang đại vương, Trang Hiền đại vương, Hưng Đạo đại vương và Quốc Mẫu.",
-    "ten": "53",
-    "vi_tri": "Đình Trùng Hạ"
+    "ghi_chu": "Đình Trùng Hạ là di tích kiến trúc nghệ thuật thờ 5 vị: Đông Hải đại vương, Sóc Giang đại vương, Trang Hiền đại vương, Hưng Đạo đại vương và Quốc Mẫu.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Trùng Hạ",
+    "vi_tri": "Gia Tân - Gia Viễn"
   },
   {
-    "loai": "Gia Tân - Gia Viễn",
-    "nam_cong_nhan": "Đình Trùng Thượng là di tích kiến trúc nghệ thuật độc đáo. Đình thờ Tô Hiến Thành, Trần Quốc Tảng và Đông Hải Đại Vương.",
-    "ten": "54",
-    "vi_tri": "Đình Trùng Thượng"
+    "ghi_chu": "Đình Trùng Thượng là di tích kiến trúc nghệ thuật độc đáo. Đình thờ Tô Hiến Thành, Trần Quốc Tảng và Đông Hải Đại Vương.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Trùng Thượng",
+    "vi_tri": "Gia Tân - Gia Viễn"
   },
   {
-    "loai": "Gia Tân - Gia Viễn",
-    "nam_cong_nhan": "Đình làng Vân Thị thờ Thái sư phụ chính Tô Hiến Thành được xây dựng năm 1699 - năm chính tòa thứ 20. Đến nay đã hơn 300 năm tuổi.",
-    "ten": "55",
-    "vi_tri": "Đình Vân Thị"
+    "ghi_chu": "Đình làng Vân Thị thờ Thái sư phụ chính Tô Hiến Thành được xây dựng năm 1699 - năm chính tòa thứ 20. Đến nay đã hơn 300 năm tuổi.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Vân Thị",
+    "vi_tri": "Gia Tân - Gia Viễn"
   },
   {
-    "loai": "Gia Phong - Gia Viễn",
-    "nam_cong_nhan": "Chùa Lỗi Sơn nằm trong chiến khu Quỳnh Lưu, chùa thờ Phật, còn thờ thêm Hai Bà Trưng và ba bài vị thờ 3 dũng tướng thời vua Hùng là Cao Sơn, Quý Minh và Tản Viên.",
-    "ten": "56",
-    "vi_tri": "Chùa Lỗi Sơn"
+    "ghi_chu": "Chùa Lỗi Sơn nằm trong chiến khu Quỳnh Lưu, chùa thờ Phật, còn thờ thêm Hai Bà Trưng và ba bài vị thờ 3 dũng tướng thời vua Hùng là Cao Sơn, Quý Minh và Tản Viên.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Lỗi Sơn",
+    "vi_tri": "Gia Phong - Gia Viễn"
   },
   {
-    "loai": "Gia Lạc - Gia Viễn",
-    "nam_cong_nhan": "Chùa Hạ xây dựng năm 1859, trước chùa Thượng 10 năm. Chùa Hạ thờ Phật và Tam vị Thánh Mẫu; chùa Thượng thờ Phật và Quan Âm Thị Kính.",
-    "ten": "57",
-    "vi_tri": "Chùa Lạc Khoái"
+    "ghi_chu": "Chùa Hạ xây dựng năm 1859, trước chùa Thượng 10 năm. Chùa Hạ thờ Phật và Tam vị Thánh Mẫu; chùa Thượng thờ Phật và Quan Âm Thị Kính.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Lạc Khoái",
+    "vi_tri": "Gia Lạc - Gia Viễn"
   },
   {
-    "loai": "Gia Phương - Gia Viễn",
-    "nam_cong_nhan": "Lịch sử Quốc gia Nhà thờ họ Nguyễn Việt Nam. Nơi thờ thái thủy tổ Nguyễn Bặc, được xem là thủy tổ của họ Nguyễn chính tông ở Việt Nam.",
-    "ten": "58",
-    "vi_tri": "Nhà thờ và mộ Nguyễn Bặc"
+    "ghi_chu": "Lịch sử Quốc gia Nhà thờ họ Nguyễn Việt Nam. Nơi thờ thái thủy tổ Nguyễn Bặc, được xem là thủy tổ của họ Nguyễn chính tông ở Việt Nam.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ và mộ Nguyễn Bặc",
+    "vi_tri": "Gia Phương - Gia Viễn"
   },
   {
-    "loai": "Gia Phong - Gia Viễn",
-    "nam_cong_nhan": "Nhà thờ Đinh Huy Đạo, một danh tướng thời Tây Sơn đối với cuộc chiến chống quân Thanh. Ông còn để lại cho đời nhiều bài văn, tác phẩm văn học có giá trị.",
-    "ten": "59",
-    "vi_tri": "Nhà thờ Đinh Huy Đạo"
+    "ghi_chu": "Nhà thờ Đinh Huy Đạo, một danh tướng thời Tây Sơn đối với cuộc chiến chống quân Thanh. Ông còn để lại cho đời nhiều bài văn, tác phẩm văn học có giá trị.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ Đinh Huy Đạo",
+    "vi_tri": "Gia Phong - Gia Viễn"
   },
   {
-    "loai": "Gia Tiến - Gia Viễn",
-    "nam_cong_nhan": "Núi Cắm Gươm liên quan đến truyền thuyết chú của Đinh Bộ Lĩnh là Đinh Thúc Dự cắm kiếm xuống đất để lậy khi thấy Rồng vàng đưa cháu mình qua sông Hoàng Long.",
-    "ten": "60",
-    "vi_tri": "Khu vực núi Kiếm Lĩnh"
+    "ghi_chu": "Núi Cắm Gươm liên quan đến truyền thuyết chú của Đinh Bộ Lĩnh là Đinh Thúc Dự cắm kiếm xuống đất để lậy khi thấy Rồng vàng đưa cháu mình qua sông Hoàng Long.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Khu vực núi Kiếm Lĩnh",
+    "vi_tri": "Gia Tiến - Gia Viễn"
   },
   {
-    "loai": "Nho Quan và Gia Viễn",
-    "nam_cong_nhan": "Chiến khu Quỳnh Lưu trải rộng trên 7 xã, là căn cứ cách mạng thời ký kháng chiến chống Pháp và Nhật đồng thời được xem là quê hương cách mạng của Ninh Bình.",
-    "ten": "61",
-    "vi_tri": "Chiến khu Quỳnh Lưu"
+    "ghi_chu": "Chiến khu Quỳnh Lưu trải rộng trên 7 xã, là căn cứ cách mạng thời ký kháng chiến chống Pháp và Nhật đồng thời được xem là quê hương cách mạng của Ninh Bình.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chiến khu Quỳnh Lưu",
+    "vi_tri": "Nho Quan và Gia Viễn"
   },
   {
-    "loai": "Phú Long - Nho Quan",
-    "nam_cong_nhan": "Dốc Giang là di tích cách mạng nằm trên đường Quốc lộ 45 từ Rịa đi Sòng Cạn. Chiến thắng Dốc Giang năm 1953 đã tiêu diệt và bắt sống gần 200 tên Pháp.",
-    "ten": "62",
-    "vi_tri": "Dốc Giang"
+    "ghi_chu": "Dốc Giang là di tích cách mạng nằm trên đường Quốc lộ 45 từ Rịa đi Sòng Cạn. Chiến thắng Dốc Giang năm 1953 đã tiêu diệt và bắt sống gần 200 tên Pháp.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Dốc Giang",
+    "vi_tri": "Phú Long - Nho Quan"
   },
   {
-    "loai": "Phú Long - Nho Quan",
-    "nam_cong_nhan": "Tháng 6/1945 Thung Lóng được Xứ ủy Bắc Kỳ chọn làm điểm tổ chức nhiều cuộc họp bàn quan trọng và mở lớp huấn luyện cho các cán bộ và nhân dân địa phương.",
-    "ten": "63",
-    "vi_tri": "Thung Lóng"
+    "ghi_chu": "Tháng 6/1945 Thung Lóng được Xứ ủy Bắc Kỳ chọn làm điểm tổ chức nhiều cuộc họp bàn quan trọng và mở lớp huấn luyện cho các cán bộ và nhân dân địa phương.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Thung Lóng",
+    "vi_tri": "Phú Long - Nho Quan"
   },
   {
-    "loai": "Sơn Lai - Nho Quan",
-    "nam_cong_nhan": "Khu Trũng, Đồng Báng thuộc xã Sơn Lai, là điểm di tích cách mạng thuộc khu căn cứ cách mạng Quỳnh Lưu, tỉnh Ninh Bình.",
-    "ten": "64",
-    "vi_tri": "Khu Trũng, Đồng Báng"
+    "ghi_chu": "Khu Trũng, Đồng Báng thuộc xã Sơn Lai, là điểm di tích cách mạng thuộc khu căn cứ cách mạng Quỳnh Lưu, tỉnh Ninh Bình.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Khu Trũng, Đồng Báng",
+    "vi_tri": "Sơn Lai - Nho Quan"
   },
   {
-    "loai": "Sơn Thành - Nho Quan",
-    "nam_cong_nhan": "Đền Sầy thờ Ngọc Quang Công Chúa tên húy là Vương Thị Tiên, một trong những nữ tướng thời Hai Bà Trưng.",
-    "ten": "65",
-    "vi_tri": "Đền Sầy"
+    "ghi_chu": "Đền Sầy thờ Ngọc Quang Công Chúa tên húy là Vương Thị Tiên, một trong những nữ tướng thời Hai Bà Trưng.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Sầy",
+    "vi_tri": "Sơn Thành - Nho Quan"
   },
   {
-    "loai": "Gia Thủy - Nho Quan",
-    "nam_cong_nhan": "Đình Mỹ Hạ là di tích lịch sử văn hóa trên quê hương của Thái hậu Dương Vân Nga và quê ngoại Vua Đinh Tiên Hoàng. Đình thờ Vua Đinh và Thái hậu Dương Vân Nga.",
-    "ten": "66",
-    "vi_tri": "Đình Mỹ Hạ"
+    "ghi_chu": "Đình Mỹ Hạ là di tích lịch sử văn hóa trên quê hương của Thái hậu Dương Vân Nga và quê ngoại Vua Đinh Tiên Hoàng. Đình thờ Vua Đinh và Thái hậu Dương Vân Nga.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Mỹ Hạ",
+    "vi_tri": "Gia Thủy - Nho Quan"
   },
   {
-    "loai": "Sơn Thành - Nho Quan",
-    "nam_cong_nhan": "Đình làng Ác thờ Thủy Tinh Công chúa. Đình được xây dựng từ thời vua Trần. Lúc đầu đình được gọi là Hồng Kiều, sau gọi là đền Cầu Vồng, nay gọi là đình Làng Ác.",
-    "ten": "67",
-    "vi_tri": "Đình Ác"
+    "ghi_chu": "Đình làng Ác thờ Thủy Tinh Công chúa. Đình được xây dựng từ thời vua Trần. Lúc đầu đình được gọi là Hồng Kiều, sau gọi là đền Cầu Vồng, nay gọi là đình Làng Ác.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Ác",
+    "vi_tri": "Sơn Thành - Nho Quan"
   },
   {
-    "loai": "Đông Sơn và Nam Sơn, TĐ",
-    "nam_cong_nhan": "Là Phòng tuyến kháng chiến thời Tây Sơn, nơi Vua Quang Trung tập hợp quân trước khi tiến ra Thăng Long làm lên chiến thắng Ngọc Hồi - Đống Đa.",
-    "ten": "68",
-    "vi_tri": "Phòng tuyến Tam Điệp"
+    "ghi_chu": "Là Phòng tuyến kháng chiến thời Tây Sơn, nơi Vua Quang Trung tập hợp quân trước khi tiến ra Thăng Long làm lên chiến thắng Ngọc Hồi - Đống Đa.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Phòng tuyến Tam Điệp",
+    "vi_tri": "Đông Sơn và Nam Sơn, TĐ"
   },
   {
-    "loai": "Yên Thắng - Yên Mô",
-    "nam_cong_nhan": "Ngôi đền cổ này thờ 5 vị thần thời Hùng Vương thứ 6 trấn thủ vùng Nam Lĩnh là: Chàng Hoàng, Quý Nương, Chàng Cả, Chàng Hai, Chàng Ba.",
-    "ten": "69",
-    "vi_tri": "Đền Năn"
+    "ghi_chu": "Ngôi đền cổ này thờ 5 vị thần thời Hùng Vương thứ 6 trấn thủ vùng Nam Lĩnh là: Chàng Hoàng, Quý Nương, Chàng Cả, Chàng Hai, Chàng Ba.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Năn",
+    "vi_tri": "Yên Thắng - Yên Mô"
   },
   {
-    "loai": "Yên Nhân - Yên Mô",
-    "nam_cong_nhan": "Thờ Linh Công - Vị tướng thời Hùng Vương được phong Đại Hải Long Hầu hiển hách Đại Vương Thượng Đẳng Thần.",
-    "ten": "70",
-    "vi_tri": "Đền Bình Hải"
+    "ghi_chu": "Thờ Linh Công - Vị tướng thời Hùng Vương được phong Đại Hải Long Hầu hiển hách Đại Vương Thượng Đẳng Thần.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Bình Hải",
+    "vi_tri": "Yên Nhân - Yên Mô"
   },
   {
-    "loai": "Yên Mạc - Yên Mô",
-    "nam_cong_nhan": "Thờ vị quan dưới 3 triều Minh Mệnh, Thiệu Trị, Tự Đức, tích cực nhất trong phái chủ chiến chống Pháp. Ông còn là một nhà thơ nổi tiếng đương thời.",
-    "ten": "71",
-    "vi_tri": "Nhà thờ Vũ Phạm Khải, đền họ Vũ"
+    "ghi_chu": "Thờ vị quan dưới 3 triều Minh Mệnh, Thiệu Trị, Tự Đức, tích cực nhất trong phái chủ chiến chống Pháp. Ông còn là một nhà thơ nổi tiếng đương thời.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ Vũ Phạm Khải, đền họ Vũ",
+    "vi_tri": "Yên Mạc - Yên Mô"
   },
   {
-    "loai": "Yên Mỹ - Yên Mô",
-    "nam_cong_nhan": "Thờ danh nhân văn hóa Ninh Tốn, một nhà thơ, nhà viết Sử, nhà biên soạn luật, nhà chính trị và nhà quân sự",
-    "ten": "72",
-    "vi_tri": "Đền thờ Ninh Tốn"
+    "ghi_chu": "Thờ danh nhân văn hóa Ninh Tốn, một nhà thơ, nhà viết Sử, nhà biên soạn luật, nhà chính trị và nhà quân sự",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền thờ Ninh Tốn",
+    "vi_tri": "Yên Mỹ - Yên Mô"
   },
   {
-    "loai": "Yên Phong - Yên Mô",
-    "nam_cong_nhan": "Đền, chùa Khương Dụ là cụm công trình di tích có giá trị kiến trúc và nghệ thuật",
-    "ten": "73",
-    "vi_tri": "Đền, chùa Khương Dụ"
+    "ghi_chu": "Đền, chùa Khương Dụ là cụm công trình di tích có giá trị kiến trúc và nghệ thuật",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền, chùa Khương Dụ",
+    "vi_tri": "Yên Phong - Yên Mô"
   },
   {
-    "loai": "Yên Phong - Yên Mô",
-    "nam_cong_nhan": "Thờ tam vị Ngọ Đại Vương \u2013 3 vị tướng thời Hùng Vương thứ 18, có công dẹp cướp biển ở cửa biển Thần Phù, dẹp cướp rừng ở vùng núi Tam Điệp.",
-    "ten": "74",
-    "vi_tri": "Đền Quảng Phúc"
+    "ghi_chu": "Thờ tam vị Ngọ Đại Vương \u2013 3 vị tướng thời Hùng Vương thứ 18, có công dẹp cướp biển ở cửa biển Thần Phù, dẹp cướp rừng ở vùng núi Tam Điệp.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Quảng Phúc",
+    "vi_tri": "Yên Phong - Yên Mô"
   },
   {
-    "loai": "Yên Thành - Yên Mô",
-    "nam_cong_nhan": "Đền La nằm trên vị trí kinh đô Mô Đô xưa, nơi nhà Hậu Trần ra đời dưới sự bảo trợ của danh tướng quê hương Yên Mô là Trần Triệu Cơ.",
-    "ten": "75",
-    "vi_tri": "Đền La"
+    "ghi_chu": "Đền La nằm trên vị trí kinh đô Mô Đô xưa, nơi nhà Hậu Trần ra đời dưới sự bảo trợ của danh tướng quê hương Yên Mô là Trần Triệu Cơ.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền La",
+    "vi_tri": "Yên Thành - Yên Mô"
   },
   {
-    "loai": "Khánh Thịnh - Yên Mô",
-    "nam_cong_nhan": "Chùa Tháp là nơi có xá lỵ của tướng quân Đinh Điền thời Đinh cùng ngôi đền thờ ông và phu nhân cùng Kiều Mộc thiền sư Lương Tuấn - người theo giúp Đinh Điền.",
-    "ten": "76",
-    "vi_tri": "Chùa Tháp"
+    "ghi_chu": "Chùa Tháp là nơi có xá lỵ của tướng quân Đinh Điền thời Đinh cùng ngôi đền thờ ông và phu nhân cùng Kiều Mộc thiền sư Lương Tuấn - người theo giúp Đinh Điền.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Tháp",
+    "vi_tri": "Khánh Thịnh - Yên Mô"
   },
   {
-    "loai": "Yên Lâm - Yên Mô",
-    "nam_cong_nhan": "Đình Phù Sa nằm trong khu vực cửa biển Thần Phù, Đình là nơi thờ Triệu Việt Vương, người đã mất tại khu vực cửa biển Đại Ác này.",
-    "ten": "77",
-    "vi_tri": "Đình Phù Sa"
+    "ghi_chu": "Đình Phù Sa nằm trong khu vực cửa biển Thần Phù, Đình là nơi thờ Triệu Việt Vương, người đã mất tại khu vực cửa biển Đại Ác này.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Phù Sa",
+    "vi_tri": "Yên Lâm - Yên Mô"
   },
   {
-    "loai": "Khánh Thượng - Yên Mô",
-    "nam_cong_nhan": "Đền Trung Lận Khê là công trình di tích có giá trị kiến trúc, nghệ thuật",
-    "ten": "78",
-    "vi_tri": "Đền Trung Lận Khê"
+    "ghi_chu": "Đền Trung Lận Khê là công trình di tích có giá trị kiến trúc, nghệ thuật",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Trung Lận Khê",
+    "vi_tri": "Khánh Thượng - Yên Mô"
   },
   {
-    "loai": "Yên Mạc - Yên Mô",
-    "nam_cong_nhan": "Lê Niệm cháu của Lê Lai, làm quan đời Lê Thái Tông. Khi đóng quân ở làng Thiên trì, ông đã chỉ huy đắp đê Hồng Đức và được cấp 200 mấu ruộng ở làng Thiên Trì.",
-    "ten": "79",
-    "vi_tri": "Đền thờ Thái phó Lê Niệm"
+    "ghi_chu": "Lê Niệm cháu của Lê Lai, làm quan đời Lê Thái Tông. Khi đóng quân ở làng Thiên trì, ông đã chỉ huy đắp đê Hồng Đức và được cấp 200 mấu ruộng ở làng Thiên Trì.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền thờ Thái phó Lê Niệm",
+    "vi_tri": "Yên Mạc - Yên Mô"
   },
   {
-    "loai": "Khánh Hải - Yên Khánh",
-    "nam_cong_nhan": "Nơi thờ Trạng Bồng Vũ Duy Thanh trên quê hương. Vũ Duy Thanh là vị thủ khoa thời Nguyễn tương đương Trạng nguyên xưa, ông được người dân tôn vinh là Trạng Bồng.",
-    "ten": "80",
-    "vi_tri": "Nhà thờ và mộ Vũ Duy Thanh"
+    "ghi_chu": "Nơi thờ Trạng Bồng Vũ Duy Thanh trên quê hương. Vũ Duy Thanh là vị thủ khoa thời Nguyễn tương đương Trạng nguyên xưa, ông được người dân tôn vinh là Trạng Bồng.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ và mộ Vũ Duy Thanh",
+    "vi_tri": "Khánh Hải - Yên Khánh"
   },
   {
-    "loai": "Khánh An - Yên Khánh",
-    "nam_cong_nhan": "Thờ vị lưỡng quốc Trạng nguyên Mạc Đĩnh Chi thời nhà Trần cùng 3 vị tể tướng và 18 vị quận công, các danh nhân họ Tạ.",
-    "ten": "81",
-    "vi_tri": "Đền Văn Giáp"
+    "ghi_chu": "Thờ vị lưỡng quốc Trạng nguyên Mạc Đĩnh Chi thời nhà Trần cùng 3 vị tể tướng và 18 vị quận công, các danh nhân họ Tạ.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Văn Giáp",
+    "vi_tri": "Khánh An - Yên Khánh"
   },
   {
-    "loai": "Khánh Phú - Yên Khánh",
-    "nam_cong_nhan": "Chùa Phúc Long thờ phật và thờ Tiên thiên Thánh Mẫu, mẹ của Giác Hải thiền sư. Đền Thượng thờ tam thánh: Giác Hải, Từ Đạo Hạnh và Nguyễn Minh Không.",
-    "ten": "82",
-    "vi_tri": "Đền Thượng, chùa Phúc Long"
+    "ghi_chu": "Chùa Phúc Long thờ phật và thờ Tiên thiên Thánh Mẫu, mẹ của Giác Hải thiền sư. Đền Thượng thờ tam thánh: Giác Hải, Từ Đạo Hạnh và Nguyễn Minh Không.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Thượng, chùa Phúc Long",
+    "vi_tri": "Khánh Phú - Yên Khánh"
   },
   {
-    "loai": "Khánh Nhạc - Yên Khánh",
-    "nam_cong_nhan": "Đình thôn Đỗ là di tích kiến trúc nghệ thuật tiêu biểu",
-    "ten": "83",
-    "vi_tri": "Đình thôn Đỗ"
+    "ghi_chu": "Đình thôn Đỗ là di tích kiến trúc nghệ thuật tiêu biểu",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình thôn Đỗ",
+    "vi_tri": "Khánh Nhạc - Yên Khánh"
   },
   {
-    "loai": "Khánh Tiên - Yên Khánh",
-    "nam_cong_nhan": "Đền chùa thôn Năm là cụm di tích kiến trúc nghệ thuật tiêu biểu",
-    "ten": "84",
-    "vi_tri": "Đền chùa thôn Năm"
+    "ghi_chu": "Đền chùa thôn Năm là cụm di tích kiến trúc nghệ thuật tiêu biểu",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền chùa thôn Năm",
+    "vi_tri": "Khánh Tiên - Yên Khánh"
   },
   {
-    "loai": "Khánh Hòa - Yên Khánh",
-    "nam_cong_nhan": "Chùa Dầu có từ thời Lý Thái Tông nhưng hiện có nhiều dấu tích của triều đại nhà Trần khi các Vua đời đầu đã về xây dựng hành cũng Vũ Lâm.",
-    "ten": "85",
-    "vi_tri": "Chùa Dầu"
+    "ghi_chu": "Chùa Dầu có từ thời Lý Thái Tông nhưng hiện có nhiều dấu tích của triều đại nhà Trần khi các Vua đời đầu đã về xây dựng hành cũng Vũ Lâm.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Dầu",
+    "vi_tri": "Khánh Hòa - Yên Khánh"
   },
   {
-    "loai": "Khánh Trung - Yên Khánh",
-    "nam_cong_nhan": "Thờ Phạm Tử Nghi là tướng thời nhà Mạc, ông còn được thờ ở Đền Hải Đức trên bờ đê sông Đáy thuộc xã Khánh Thiện, huyện Yên Khánh.",
-    "ten": "86",
-    "vi_tri": "Đền Kiến Ốc"
+    "ghi_chu": "Thờ Phạm Tử Nghi là tướng thời nhà Mạc, ông còn được thờ ở Đền Hải Đức trên bờ đê sông Đáy thuộc xã Khánh Thiện, huyện Yên Khánh.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Kiến Ốc",
+    "vi_tri": "Khánh Trung - Yên Khánh"
   },
   {
-    "loai": "Khánh Lợi - Yên Khánh",
-    "nam_cong_nhan": "Thờ Phùng Kim và Triệu Việt Vương - những danh nhân lịch sử từ thế kỷ V. Đây là một trong những di tích lịch sử văn hóa cổ nhất ở Ninh Bình.",
-    "ten": "87",
-    "vi_tri": "Đền Tiên Viên, chùa Kim Rong"
+    "ghi_chu": "Thờ Phùng Kim và Triệu Việt Vương - những danh nhân lịch sử từ thế kỷ V. Đây là một trong những di tích lịch sử văn hóa cổ nhất ở Ninh Bình.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Tiên Viên, chùa Kim Rong",
+    "vi_tri": "Khánh Lợi - Yên Khánh"
   },
   {
-    "loai": "Khánh Nhạc - Yên Khánh",
-    "nam_cong_nhan": "Chùa \u201cGià Lê Tự\u201d hơn 400 năm tuổi còn là bản doanh của Nguyễn Công Trứ khi chiêu mộ nhân dân quanh vùng, khẩn hoang lấn biển thành lập huyện Kim Sơn năm 1829.",
-    "ten": "88",
-    "vi_tri": "Chùa Phúc Nhạc"
+    "ghi_chu": "Chùa \u201cGià Lê Tự\u201d hơn 400 năm tuổi còn là bản doanh của Nguyễn Công Trứ khi chiêu mộ nhân dân quanh vùng, khẩn hoang lấn biển thành lập huyện Kim Sơn năm 1829.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Chùa Phúc Nhạc",
+    "vi_tri": "Khánh Nhạc - Yên Khánh"
   },
   {
-    "loai": "Khánh An - Yên Khánh",
-    "nam_cong_nhan": "Đền Tam Thánh thờ Đinh Điền, Kiều Mộc thiền sư Lương Tuấn và Thượng Trân Trưởng công chúa là những danh nhân thời Đinh. Chùa Yên Lữ được xây dựng từ năm 1019.",
-    "ten": "89",
-    "vi_tri": "Đền Tam Thánh, chùa Yên Lữ"
+    "ghi_chu": "Đền Tam Thánh thờ Đinh Điền, Kiều Mộc thiền sư Lương Tuấn và Thượng Trân Trưởng công chúa là những danh nhân thời Đinh. Chùa Yên Lữ được xây dựng từ năm 1019.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Tam Thánh, chùa Yên Lữ",
+    "vi_tri": "Khánh An - Yên Khánh"
   },
   {
-    "loai": "Quang Thiện - Kim Sơn",
-    "nam_cong_nhan": "Đền thờ Nguyễn Công Trứ nằm tại trung tâm vùng đất Kim Sơn xưa, nơi ông chiêu dân khai khẩn bãi hoang ven biển để lập ra huyện này từ năm 1829",
-    "ten": "90",
-    "vi_tri": "Đền thờ Nguyễn Công Trứ"
+    "ghi_chu": "Đền thờ Nguyễn Công Trứ nằm tại trung tâm vùng đất Kim Sơn xưa, nơi ông chiêu dân khai khẩn bãi hoang ven biển để lập ra huyện này từ năm 1829",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền thờ Nguyễn Công Trứ",
+    "vi_tri": "Quang Thiện - Kim Sơn"
   },
   {
-    "loai": "Lưu Phương - Kim Sơn",
-    "nam_cong_nhan": "Quần thể kiến trúc nhà thờ Phát Diệm với những công trình kiến trúc độc đáo, là trung tâm của giáo phận, nơi được mệnh danh là kinh đô công giáo của Việt Nam.",
-    "ten": "91",
-    "vi_tri": "Nhà thờ đá Phát Diệm"
+    "ghi_chu": "Quần thể kiến trúc nhà thờ Phát Diệm với những công trình kiến trúc độc đáo, là trung tâm của giáo phận, nơi được mệnh danh là kinh đô công giáo của Việt Nam.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Nhà thờ đá Phát Diệm",
+    "vi_tri": "Lưu Phương - Kim Sơn"
   },
   {
-    "loai": "Thượng Kiệm - Kim Sơn",
-    "nam_cong_nhan": "Đình Thượng Kiệm là nơi thờ Triệu Việt Vương. Đình nằm gần kiến trúc nhà thờ Phát Diệm.",
-    "ten": "92",
-    "vi_tri": "Đình Thượng Kiệm"
+    "ghi_chu": "Đình Thượng Kiệm là nơi thờ Triệu Việt Vương. Đình nằm gần kiến trúc nhà thờ Phát Diệm.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đình Thượng Kiệm",
+    "vi_tri": "Thượng Kiệm - Kim Sơn"
   },
   {
-    "loai": "Chất Bình - Kim Sơn",
-    "nam_cong_nhan": "Đền Chất Thành là di tích lịch sử văn hóa quốc gia. Đền thờ Triệu Việt Vương trên vị trí gần cửa biển Đại Ác khi xưa ông đã mất.",
-    "ten": "93",
-    "vi_tri": "Đền Chất Thành"
+    "ghi_chu": "Đền Chất Thành là di tích lịch sử văn hóa quốc gia. Đền thờ Triệu Việt Vương trên vị trí gần cửa biển Đại Ác khi xưa ông đã mất.",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Chất Thành",
+    "vi_tri": "Chất Bình - Kim Sơn"
   },
   {
-    "loai": "Quang Thiện - Kim Sơn",
-    "nam_cong_nhan": "Miếu, chùa Lạc Thiện là cụm di tích kiến trúc nghệ thuật có giá trị tiêu biểu[11]",
-    "ten": "94",
-    "vi_tri": "Miếu, chùa Lạc Thiện"
+    "ghi_chu": "Miếu, chùa Lạc Thiện là cụm di tích kiến trúc nghệ thuật có giá trị tiêu biểu[11]",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Miếu, chùa Lạc Thiện",
+    "vi_tri": "Quang Thiện - Kim Sơn"
   },
   {
-    "loai": "Như Hòa - Kim Sơn",
-    "nam_cong_nhan": "Thờ quan Thái bảo Trần Nguyên Hãn là hậu duệ nhà Trần, có công đánh giặc Nguyên Mông, thờ cụ Doãn Dư cùng các vị có công khai hoang lấn biển lập nên Ấp Như Độ.[11]",
-    "ten": "95",
-    "vi_tri": "Đền Như Độ"
+    "ghi_chu": "Thờ quan Thái bảo Trần Nguyên Hãn là hậu duệ nhà Trần, có công đánh giặc Nguyên Mông, thờ cụ Doãn Dư cùng các vị có công khai hoang lấn biển lập nên Ấp Như Độ.[11]",
+    "loai": "Lịch sử",
+    "nam_cong_nhan": "-1",
+    "ten": "Đền Như Độ",
+    "vi_tri": "Như Hòa - Kim Sơn"
   },
   {},
   {

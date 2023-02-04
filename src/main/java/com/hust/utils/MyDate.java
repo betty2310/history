@@ -19,6 +19,10 @@ public class MyDate {
         this.month = -1;
         this.year = year;
     }
+    public MyDate(String date) {
+        if(!date.contains("/") && !date.contains(" "))
+            this.year = Integer.parseInt(date);
+    }
     public MyDate() {
         this.day = -1;
         this.month = -1;

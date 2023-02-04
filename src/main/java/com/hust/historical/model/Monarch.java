@@ -10,18 +10,26 @@ public class Monarch extends Human {
     private String mieuHieu;
     private String tenHuy;
     private String theThu;
-    private Monarch predecessor;
-    private Monarch successor;
+    private String predecessor;
+    private String successor;
 
-    public Monarch(String name, MyDate birth, String birthPlace, String deathPlace, Dynasty dynasty) {
-        super(name, birth, birthPlace, deathPlace, dynasty);
+    public Monarch(String name, MyDate birth,MyDate death,  String birthPlace, String deathPlace, MyDate reignStart, MyDate reignEnd, String nienHieu, String mieuHieu, String tenHuy, String theThu, String predecessor, String successor) {
+        super(name, birth,death, birthPlace, deathPlace);
+        this.reignStart = reignStart;
+        this.reignEnd = reignEnd;
+        this.nienHieu = nienHieu;
+        this.mieuHieu = mieuHieu;
+        this.tenHuy = tenHuy;
+        this.theThu = theThu;
+        this.predecessor = predecessor;
+        this.successor = successor;
     }
 
     public void setToTimeLine() {
     }
 
     @Override
-    public void setDynasty() {
-
+    public String getDynasty() {
+        return "";
     }
 }
