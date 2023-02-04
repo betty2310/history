@@ -5,6 +5,7 @@ import org.json.JSONObject;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 
 public abstract class AbstractLink implements Link {
@@ -22,7 +23,7 @@ public abstract class AbstractLink implements Link {
     protected abstract void setProperties();
     public void writeToFile(String fileName) {
         setProperties();
-        String filePath = fileName;
+        String filePath = baseFilePath + fileName;
         System.out.println("Begin crawling " + url);
         crawl(url);
         System.out.println("Finish crawling and write to file: " + filePath);
