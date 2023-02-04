@@ -5,8 +5,9 @@
     "vi_the": "Quận của Nhà Hán",
     "time": "111 TCN\u201340",
     "thu_do": "Giao Chỉ",
-    "ten": "Bắc thuộc lần thứ nhất",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Thời kỳ Bắc thuộc lần thứ nhất",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Bắc thuộc lần thứ nhất"
   },
   {
     "ton_giao": "Đa thần giáo",
@@ -14,8 +15,9 @@
     "vi_the": "Vương quốc",
     "time": "204 TCN\u2013111 TCN",
     "thu_do": "Phiên Ngung",
-    "ten": "Nam Việt",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Triệu",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Nam Việt"
   },
   {
     "ton_giao": "",
@@ -23,8 +25,9 @@
     "vi_the": "Quận của Nhà Hán-Nhà Đông Ngô-Nhà Tấn-Nam Triều",
     "time": "43\u2013544",
     "thu_do": "Long Biên",
-    "ten": "Bắc thuộc lần thứ hai",
-    "don_vi_tien": "Đồng xu"
+    "ten": "Thời kỳ Bắc thuộc lần thứ hai",
+    "don_vi_tien": "Đồng xu",
+    "ten_quoc_gia": "Bắc thuộc lần thứ hai"
   },
   {
     "ton_giao": "",
@@ -32,8 +35,9 @@
     "vi_the": "",
     "time": "544\u2013602",
     "thu_do": "Long Biên",
-    "ten": "Vạn Xuân",
-    "don_vi_tien": "Văn"
+    "ten": "Nhà Tiền Lý",
+    "don_vi_tien": "Văn",
+    "ten_quoc_gia": "Vạn Xuân"
   },
   {
     "ton_giao": "Phật giáo",
@@ -41,8 +45,9 @@
     "vi_the": "Quận của Nhà Tùy-Nhà Đường-Nam Hán Tỉnh tự trị dưới Họ Khúc (905)",
     "time": "603\u2013905 hoặc 939",
     "thu_do": "Đại La",
-    "ten": "Bắc thuộc lần thứ ba Tĩnh Hải quân",
-    "don_vi_tien": "Đồng"
+    "ten": "Thời kỳ Bắc thuộc lần thứ ba",
+    "don_vi_tien": "Đồng",
+    "ten_quoc_gia": "Bắc thuộc lần thứ ba Tĩnh Hải quân"
   },
   {
     "ton_giao": "Phật giáo, Đạo giáo, Cảnh giáo[1]",
@@ -50,8 +55,9 @@
     "vi_the": "",
     "time": "939\u2013965",
     "thu_do": "Cổ Loa",
-    "ten": "Tĩnh Hải quân",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Ngô",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Tĩnh Hải quân"
   },
   {
     "ton_giao": "Phật giáo, Đạo giáo,...",
@@ -59,8 +65,9 @@
     "vi_the": "",
     "time": "968\u2013980",
     "thu_do": "Hoa Lư",
-    "ten": "Đại Cồ Việt",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Đinh",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Đại Cồ Việt"
   },
   {
     "ton_giao": "Phật giáo, Đạo giáo,...",
@@ -68,8 +75,9 @@
     "vi_the": "",
     "time": "980\u20131009",
     "thu_do": "Hoa Lư",
-    "ten": "Đại Cồ Việt",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Tiền Lê",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Đại Cồ Việt"
   },
   {
     "ton_giao": "Phật giáo",
@@ -77,8 +85,9 @@
     "vi_the": "",
     "time": "1009\u20131225",
     "thu_do": "Hoa Lư (1009 - 1010) Thăng Long (1010 - 1225)",
-    "ten": "Đại Việt",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Lý",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Đại Việt"
   },
   {
     "ton_giao": "Phật giáo, Đạo giáo, Tín ngưỡng Việt Nam",
@@ -86,8 +95,9 @@
     "vi_the": "",
     "time": "1226\u20131400",
     "thu_do": "Thăng Long Thiên Trường[1] Thanh Hoá (tạm thời)",
-    "ten": "Đại Việt",
-    "don_vi_tien": "Tiền xu, Tiền giấy"
+    "ten": "Nhà Trần",
+    "don_vi_tien": "Tiền xu, Tiền giấy",
+    "ten_quoc_gia": "Đại Việt"
   },
   {
     "ton_giao": "Phật giáo, Đạo giáo, Tín ngưỡng Việt Nam",
@@ -95,8 +105,9 @@
     "vi_the": "Đế quốc",
     "time": "1400\u20131407",
     "thu_do": "Tây Đô 20°4\u2032B 105°36\u2032Đ﻿ / ﻿20,067°B 105,6°Đ﻿ / 20.067; 105.600",
-    "ten": "Đại Ngu",
-    "don_vi_tien": "Thông bảo hội sao (tiền giấy), Thánh Nguyên thông bảo (tiền kim loại)"
+    "ten": "Nhà Hồ",
+    "don_vi_tien": "Thông bảo hội sao (tiền giấy), Thánh Nguyên thông bảo (tiền kim loại)",
+    "ten_quoc_gia": "Đại Ngu"
   },
   {
     "ton_giao": "",
@@ -104,8 +115,9 @@
     "vi_the": "",
     "time": "Lịch sử",
     "thu_do": "",
-    "ten": "←",
-    "don_vi_tien": ""
+    "ten": "Thời kỳ Bắc thuộc lần thứ tư",
+    "don_vi_tien": "",
+    "ten_quoc_gia": "←"
   },
   {
     "ton_giao": "Tam giáo quy nguyên",
@@ -113,8 +125,9 @@
     "vi_the": "Đế quốc",
     "time": "1407\u20131414",
     "thu_do": "Mô Độ (1407 - 1409) Bình Than (1409 - 1414)",
-    "ten": "Nhà Hậu Trần 茹後陳",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Hậu Trần",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Nhà Hậu Trần 茹後陳"
   },
   {
     "ton_giao": "Phật giáo, Nho giáo, Tín ngưỡng dân gian",
@@ -122,8 +135,9 @@
     "vi_the": "Đế quốc",
     "time": "1428\u20131527",
     "thu_do": "Đông Kinh (東京 1428 - 1527)",
-    "ten": "Đại Việt",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Lê sơ",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": "Đại Việt"
   },
   {
     "ton_giao": "Tam giáo quy nguyên",
@@ -131,8 +145,9 @@
     "vi_the": "Đế quốc",
     "time": "1527\u20131677",
     "thu_do": "Đông Kinh",
-    "ten": "",
-    "don_vi_tien": "Tiền xu"
+    "ten": "Nhà Mạc",
+    "don_vi_tien": "Tiền xu",
+    "ten_quoc_gia": ""
   },
   {
     "ton_giao": "Phật giáo, Nho giáo, Công giáo, Tín ngưỡng dân gian",
@@ -140,8 +155,9 @@
     "vi_the": "Đế quốc",
     "time": "Triều đường chi ấn",
     "thu_do": "Quy Nhơn (1778-1788) Phú Xuân (1788-1802) Phượng Hoàng Trung Đô (1788-1802)",
-    "ten": "Đại Việt",
-    "don_vi_tien": "Văn"
+    "ten": "Nhà Tây Sơn",
+    "don_vi_tien": "Văn",
+    "ten_quoc_gia": "Đại Việt"
   },
   {
     "ton_giao": "Nho giáo, Phật giáo, Công giáo, Tín ngưỡng dân gian",
@@ -149,7 +165,8 @@
     "vi_the": "Đế quốc nội địa chịu sự triều cống cho Trung Quốc (1802\u20131884)[3][4] Chế độ bảo hộ của Pháp (1884\u20131945)[5][6] Chính phủ bù nhìn của Nhật Bản (1945)[7][8]",
     "time": "1802\u20131945",
     "thu_do": "Phú Xuân (nay là Huế) 16°28\u2032B 107°36\u2032Đ﻿ / ﻿16,467°B 107,6°Đ﻿ / 16.467; 107.600",
-    "ten": "Đại Việt (1802\u20131804) Việt Nam (1804\u20131839) Đại Nam (1839\u20131945)",
-    "don_vi_tien": "Quan"
+    "ten": "Nhà Nguyễn",
+    "don_vi_tien": "Quan",
+    "ten_quoc_gia": "Đại Việt (1802\u20131804) Việt Nam (1804\u20131839) Đại Nam (1839\u20131945)"
   }
 ]

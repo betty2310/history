@@ -17,7 +17,7 @@ public class DynastyLink extends AbstractLink {
 
     @Override
     protected void setProperties() {
-        properties = new String[]{"ten", "time", "vi_the", "thu_do", "ngon_ngu", "ton_giao", "don_vi_tien"};
+        properties = new String[]{"ten", "ten_quoc_gia", "time", "vi_the", "thu_do", "ngon_ngu", "ton_giao", "don_vi_tien"};
     }
 
     @Override
@@ -30,8 +30,10 @@ public class DynastyLink extends AbstractLink {
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
+            Element title = doc.select("span.mw-page-title-main").first();
+            String ten = title.text();
             Element table = doc.select("table.infobox").first();
-            String name = table.getElementsByTag("span").first().text();
+            String tenQuocGia = table.getElementsByTag("span").first().text();
             Elements times = table.select("td[colspan='2']");
             String time = times.get(1).text();
             String viThe = table.select("th[scope='row']:matchesOwn(Vị thế)").next().text();
@@ -52,7 +54,8 @@ public class DynastyLink extends AbstractLink {
                 donViTien = eDonViTien.parent().nextElementSibling().text();
             }
             ArrayList<String> data = new ArrayList<String>();
-            data.add(name);
+            data.add(ten);
+            data.add(tenQuocGia);
             data.add(time);
             data.add(viThe);
             data.add(thuDo);
