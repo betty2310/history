@@ -27,6 +27,12 @@
             <artifactId>json</artifactId>
             <version>20220924</version>
         </dependency>
+       <!-- https://github.com/vdmeer/asciitable -->
+        <dependency>
+            <groupId>de.vandermeer</groupId>
+            <artifactId>asciitable</artifactId>
+            <version>0.3.2</version>
+        </dependency>
     </dependencies>
 
 </project>
