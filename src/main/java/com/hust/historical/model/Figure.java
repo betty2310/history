@@ -1,16 +1,22 @@
 package com.hust.historical.model;
 
 import com.hust.utils.MyDate;
+import org.json.JSONObject;
 
 public class Figure extends Human {
     private String url;
-    public Figure(String name, MyDate birth, MyDate death, String birthPlace, String deathPlace, String url) {
-        super(name, birth, death, birthPlace, deathPlace);
+    public Figure(String name, MyDate birth, MyDate death, String birthPlace, String deathPlace, String url, String era) {
+        super(name, birth, death, birthPlace, deathPlace, era);
         this.url = url;
     }
     @Override
     public void setToTimeLine() {
 
+    }
+    public JSONObject toJSON() {
+        JSONObject jsonObject = super.toJSON();
+        jsonObject.put("url", url);
+        return jsonObject;
     }
 
     @Override

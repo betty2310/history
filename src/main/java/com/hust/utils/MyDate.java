@@ -48,11 +48,15 @@ public class MyDate {
     }
     @Override
     public String toString() {
-        return "Date{" +
-                "day=" + day +
-                ", month=" + month +
-                ", year=" + year +
-                '}';
+        if(day == -1 && month == -1)
+            return year + "";
+        if(day == -1)
+            return month + "/" + year;
+        if(day == 0 && month == 0)
+            return year + "";
+        if(day == 0)
+            return month + "/" + year;
+        return day + "/" + month + "/" + year;
     }
 
 }

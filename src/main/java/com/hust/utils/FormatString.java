@@ -6,8 +6,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class FormatString {
-    public static String removeSquareBracket(String st) {
-        return st.replaceAll("\\[.*?\\]", "");
+    public static String removeBracket(String st) {
+        String s = st.replaceAll("\\[.*?\\]", "");
+        return s.replaceAll("\\(.*?\\)", "");
     }
 
     public static MyDate getDateInlineFromString(String input) {
@@ -104,6 +105,7 @@ public class FormatString {
             return "";
         }
     }
+
     public static String getEventTime(String input) {
         if (input.contains("TCN")) {
             int lastIndex = input.lastIndexOf("TCN");
@@ -114,7 +116,7 @@ public class FormatString {
 
         if (matcher.matches()) {
             if (matcher.group(2) != null) {
-               return matcher.group(1) + " - " + matcher.group(2);
+                return matcher.group(1) + " - " + matcher.group(2);
             } else {
                 return matcher.group(1);
             }
@@ -122,6 +124,7 @@ public class FormatString {
             return "";
         }
     }
+
     public static List<String> getNouns(String input) {
         List<String> properNouns = new ArrayList<>();
         String[] words = input.split(" ");

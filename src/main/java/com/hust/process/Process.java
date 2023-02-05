@@ -53,21 +53,21 @@ public class Process {
         JSONArray array = jsonArray("/data/Monarch.json");
         for (int i = 0; i < array.length(); ++i) {
             JSONObject obj = array.getJSONObject(i);
-            String name = FormatString.removeSquareBracket(obj.getString("ten"));
+            String name = FormatString.removeBracket(obj.getString("ten"));
             String eraName = obj.getString("trieu_dai");
             MyDate birth = FormatString.getDateInlineFromString(obj.getString("sinh"));
             String birthPlace = FormatString.getBirthPlaceFromString(obj.getString("sinh"));
             MyDate death = FormatString.getDateInlineFromString(obj.getString("mat"));
             String deathPlace = FormatString.getBirthPlaceFromString(obj.getString("mat"));
-            MyDate reignStart = FormatString.getDateInlineFromString(FormatString.removeSquareBracket(obj.getString("tri_vi_bat_dau")));
-            MyDate reignEnd = FormatString.getDateInlineFromString(FormatString.removeSquareBracket(obj.getString("tri_vi_ket_thuc")));
-            String nienHieu = FormatString.removeSquareBracket(obj.getString("nien_hieu"));
-            String mieuHieu = FormatString.removeSquareBracket(obj.getString("mieu_hieu"));
-            String tenHuy = FormatString.removeSquareBracket(obj.getString("huy"));
-            String theThu = FormatString.removeSquareBracket(obj.getString("the_thu"));
-            String predecessor = FormatString.removeSquareBracket(obj.getString("tien_nhiem"));
-            String successor = FormatString.removeSquareBracket(obj.getString("ke_nhiem"));
-            Monarch monarch = new Monarch(name, birth, death, birthPlace, deathPlace, reignStart, reignEnd, nienHieu, mieuHieu, tenHuy, theThu, predecessor, successor);
+            MyDate reignStart = FormatString.getDateInlineFromString(FormatString.removeBracket(obj.getString("tri_vi_bat_dau")));
+            MyDate reignEnd = FormatString.getDateInlineFromString(FormatString.removeBracket(obj.getString("tri_vi_ket_thuc")));
+            String nienHieu = FormatString.removeBracket(obj.getString("nien_hieu"));
+            String mieuHieu = FormatString.removeBracket(obj.getString("mieu_hieu"));
+            String tenHuy = FormatString.removeBracket(obj.getString("huy"));
+            String theThu = FormatString.removeBracket(obj.getString("the_thu"));
+            String predecessor = FormatString.removeBracket(obj.getString("tien_nhiem"));
+            String successor = FormatString.removeBracket(obj.getString("ke_nhiem"));
+            Monarch monarch = new Monarch(name, birth, death, birthPlace, deathPlace, reignStart, reignEnd, nienHieu, mieuHieu, tenHuy, theThu, predecessor, successor,eraName);
             if (history.findDynasty(eraName) != null) {
                 history.findDynasty(eraName).addHuman(monarch);
             }
@@ -78,21 +78,23 @@ public class Process {
         JSONArray array = jsonArray("/data/HistoricalFigure.json");
         for (int i = 0; i < array.length(); ++i) {
             JSONObject obj = array.getJSONObject(i);
-            String name = FormatString.removeSquareBracket(obj.getString("ten"));
+            String name = FormatString.removeBracket(obj.getString("ten"));
             MyDate birth = new MyDate();
             MyDate death = new MyDate();
             String birthPlace = "";
             String deathPlace = "";
             if (obj.has("sinh") && obj.has("mat")) {
                 birth = FormatString.getDateInlineFromString(obj.getString("sinh"));
-                birthPlace = FormatString.getBirthPlaceFromString(obj.getString("sinh"));
+                birthPlace = FormatString.getBirthPlaceFromString(FormatString.removeBracket(obj.getString("sinh")));
                 death = FormatString.getDateInlineFromString(obj.getString("mat"));
-                deathPlace = FormatString.getBirthPlaceFromString(obj.getString("mat"));
+                deathPlace = FormatString.getBirthPlaceFromString(FormatString.removeBracket(obj.getString("mat")));
             }
             String url = obj.getString("url");
-            Figure figure = new Figure(name, birth, death, birthPlace, deathPlace, url);
+            Figure figure = new Figure(name, birth, death, birthPlace, deathPlace, url, "");
 
             if (history.findDynasty(figure.getDynasty()) != null) {
+                String eraName = history.findDynasty(figure.getDynasty()).getName();
+                figure = new Figure(name, birth, death, birthPlace, deathPlace, url, eraName);
                 history.findDynasty(figure.getDynasty()).addHuman(figure);
             }
         }
@@ -109,7 +111,7 @@ public class Process {
             String nvlq = "";
             String dateStart = "";
             if (obj.has("ten")) {
-                name = FormatString.removeSquareBracket(obj.getString("ten"));
+                name = FormatString.removeBracket(obj.getString("ten"));
             }
             if (obj.has("lan_dau_to_chuc")) {
                 firstTime = obj.getString("lan_dau_to_chuc");
@@ -144,7 +146,7 @@ public class Process {
             MyDate start = new MyDate();
             MyDate end = new MyDate();
             if (obj.has("noi dung")) {
-                String content = FormatString.removeSquareBracket(obj.getString("noi dung"));
+                String content = FormatString.removeBracket(obj.getString("noi dung"));
                 String time = FormatString.getEventTime(content);
                 if (time.contains("-") || time.contains("TCN")) {
                     start = FormatString.getBeginDate(time);
@@ -159,7 +161,7 @@ public class Process {
 
             String eraName = "";
             if (obj.has("thoi_ki")) {
-                eraName = FormatString.removeSquareBracket(obj.getString("thoi_ki"));
+                eraName = FormatString.removeBracket(obj.getString("thoi_ki"));
             }
             Event event = new Event(name, start, end);
             List<String> nouns = FormatString.getNouns(name);
@@ -194,7 +196,7 @@ public class Process {
             name = obj.getString("ten");
             position = obj.getString("vi_tri");
             if (obj.has("ghi_chu")) {
-                note = FormatString.removeSquareBracket(obj.getString("ghi_chu"));
+                note = FormatString.removeBracket(obj.getString("ghi_chu"));
             }
             String date = "";
             MyDate myDate = new MyDate();
@@ -204,6 +206,13 @@ public class Process {
                 myDate = new MyDate(date);
             }
             Site site = new Site(name, myDate, position, note);
+            List<String> nouns = FormatString.getNouns(name);
+            for (String noun : nouns) {
+                if (noun.contains(" ")) {
+                    Human human = history.findHuman(noun);
+                    if (human != null) site.setRelatedHuman(human.getName());
+                }
+            }
             history.getSites().add(site);
         }
     }

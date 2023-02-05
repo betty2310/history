@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521fec7f-46a2-4ba2-ae73-bb664166a461" name="Changes" comment="fix: table column can be 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/HistoricalList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/History.java" afterDir="false" />
+    <list default="true" id="521fec7f-46a2-4ba2-ae73-bb664166a461" name="Changes" comment="feat(*): complete app logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/crawler/CrawlData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/crawler/CrawlData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/historical/TimeLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/historical/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/History.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Dynasty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Dynasty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Event.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Festival.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/historical/model/Festival.java" afterDir="false" />
@@ -22,7 +19,12 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/process/Process.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/process/Process.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/utils/FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/utils/FormatString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hust/utils/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hust/utils/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/Dynasty.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/Dynasty.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/Festival.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/Festival.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/HistoricalEvent.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/HistoricalEvent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/HistoricalFigure.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/HistoricalFigure.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/data/HistoricalSite.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/HistoricalSite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/Monarch.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/Monarch.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +115,7 @@
       <workItem from="1675501655977" duration="1527000" />
       <workItem from="1675503227665" duration="3008000" />
       <workItem from="1675520976945" duration="34000" />
-      <workItem from="1675521106622" duration="20834000" />
+      <workItem from="1675521106622" duration="29928000" />
     </task>
     <task id="LOCAL-00001" summary="feat(*): initial commit">
       <created>1675350829047</created>
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675541051560</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat(*): complete app logic">
+      <created>1675543745157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675543745157</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +211,8 @@
     <MESSAGE value="dependency: add asciitable" />
     <MESSAGE value="fix: update dynasty title" />
     <MESSAGE value="fix: table column can be 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: table column can be 4" />
+    <MESSAGE value="feat(*): complete app logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(*): complete app logic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,11 +221,6 @@
           <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="6" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/hust/process/Process.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
