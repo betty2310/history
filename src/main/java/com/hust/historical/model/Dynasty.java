@@ -1,6 +1,7 @@
 package com.hust.historical.model;
 
 import com.hust.utils.MyDate;
+import de.vandermeer.asciitable.AsciiTable;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -32,6 +33,20 @@ public class Dynasty extends HistoricalObject {
 
     public ArrayList<Human> getHumanArrayList() {
         return humanArrayList;
+    }
+    public String getStrHuman() {
+        StringBuilder str = new StringBuilder();
+        for (Human human : humanArrayList) {
+            str.append(human.getName()).append(", ");
+        }
+        return str.toString();
+    }
+    public String getStrEvent() {
+        StringBuilder str = new StringBuilder();
+        for (Event event : events) {
+            str.append(event.getName()).append(", ");
+        }
+        return str.toString();
     }
 
     public ArrayList<Event> getEvents() {
@@ -74,6 +89,20 @@ public class Dynasty extends HistoricalObject {
         }
         return null;
     }
+
+    @Override
+    public String toString() {
+        AsciiTable at = new AsciiTable();
+        at.addRule();
+        at.addRow("Triều đại", "Bắt đầu", "Kết thúc", "Quốc gia", "Thủ đô", "Ngôn ngữ", "Tôn giáo", "Vị thế", "Đơn vị tiền tệ", "Nhân vật liên quan", "Sự kiện liên quan");
+        at.addRule();
+        at.addRow(super.getName(), super.getBirth().toString(), end.toString(), countryName, capital, language, religion, position, unit, getStrHuman(), getStrEvent());
+        at.addRule();
+        at.getContext().setWidth(150);
+        return at.render();
+
+    }
+
     public JSONObject toJSON() {
         JSONObject jsonObject = new JSONObject();
         jsonObject.put("triều đại", super.getName());

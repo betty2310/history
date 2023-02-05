@@ -1,5 +1,6 @@
 package com.hust;
 
+import com.hust.cli.App;
 import com.hust.crawler.CrawlData;
 import com.hust.historical.History;
 import com.hust.process.Process;
@@ -9,5 +10,6 @@ public class Main {
 //        new CrawlData();
         History history = new Process().getHistory();
 //        history.write();
+        new App(history);
     }
 }

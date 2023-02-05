@@ -1,6 +1,7 @@
 package com.hust.historical.model;
 
 import com.hust.utils.MyDate;
+import de.vandermeer.asciitable.AsciiTable;
 import org.json.JSONObject;
 
 public class Monarch extends Human {
@@ -13,8 +14,8 @@ public class Monarch extends Human {
     private String predecessor;
     private String successor;
 
-    public Monarch(String name, MyDate birth,MyDate death,  String birthPlace, String deathPlace, MyDate reignStart, MyDate reignEnd, String nienHieu, String mieuHieu, String tenHuy, String theThu, String predecessor, String successor, String eraName) {
-        super(name, birth,death, birthPlace, deathPlace, eraName);
+    public Monarch(String name, MyDate birth, MyDate death, String birthPlace, String deathPlace, MyDate reignStart, MyDate reignEnd, String nienHieu, String mieuHieu, String tenHuy, String theThu, String predecessor, String successor, String eraName) {
+        super(name, birth, death, birthPlace, deathPlace, eraName);
         this.reignStart = reignStart;
         this.reignEnd = reignEnd;
         this.nienHieu = nienHieu;
@@ -24,6 +25,18 @@ public class Monarch extends Human {
         this.predecessor = predecessor;
         this.successor = successor;
     }
+    @Override
+    public String toString() {
+        AsciiTable at = new AsciiTable();
+        at.addRule();
+        at.addRow("tên", "sinh", "mất", "trị vì bắt đầu", "trị vì kết thúc", "niên hiệu", "miếu hiệu", "tên huý", "thế thứ", "tiền nhiệm", "kế nhiệm", "triều đại");
+        at.addRule();
+        at.addRow(super.getName(), super.getBirth().toString(),super.getDeath().toString(), reignStart.toString(), reignEnd.toString(), nienHieu, mieuHieu, tenHuy, theThu, predecessor, successor, super.getDynastyName());
+        at.addRule();
+        at.getContext().setWidth(150);
+        return at.render();
+    }
+
     public JSONObject toJSON() {
         JSONObject jsonObject = super.toJSON();
         jsonObject.put("trị vì bắt đầu", reignStart.toString());

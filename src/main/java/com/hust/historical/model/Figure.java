@@ -1,6 +1,7 @@
 package com.hust.historical.model;
 
 import com.hust.utils.MyDate;
+import de.vandermeer.asciitable.AsciiTable;
 import org.json.JSONObject;
 
 public class Figure extends Human {
@@ -9,6 +10,19 @@ public class Figure extends Human {
         super(name, birth, death, birthPlace, deathPlace, era);
         this.url = url;
     }
+
+    @Override
+    public String toString() {
+        AsciiTable at = new AsciiTable();
+        at.addRule();
+        at.addRow("tên", "sinh", "mất", "nơi sinh", "nơi mất", "url", "triều đại");
+        at.addRule();
+        at.addRow(super.getName(), super.getBirth().toString(),super.getDeath().toString(), super.getBirthPlace(), super.getDeathPlace(), url, super.getDynastyName());
+        at.addRule();
+        at.getContext().setWidth(150);
+        return at.render();
+    }
+
     @Override
     public void setToTimeLine() {
 

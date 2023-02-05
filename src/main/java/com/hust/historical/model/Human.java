@@ -23,6 +23,21 @@ public abstract class Human extends HistoricalObject {
         return super.getBirth();
     }
 
+    public MyDate getDeath() {
+        return death;
+    }
+
+    public String getBirthPlace() {
+        return birthPlace;
+    }
+
+    public String getDeathPlace() {
+        return deathPlace;
+    }
+    public String getDynastyName() {
+        return dynasty;
+    }
+
     public JSONObject toJSON() {
         JSONObject jsonObject = new JSONObject();
         jsonObject.put("tên", super.getName());
